@@ -1,4 +1,4 @@
-# MIRPR-2020-2021
+# MIRPR-2019-2020
 
 Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o problemă din domeniul Machine Learning (ML) în contextul unor date reale. Proiectul va fi evaluat atat la finalul semestrului, cat si pe parcursul semestrului cand fiecare echipă va trebui să prezinte cadrului didactic îndrumător aplicaţia realizată şi raportul tehnic aferent ei.
 

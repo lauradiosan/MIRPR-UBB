@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}What? Why? How?}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Paper structure and original contribution(s)}{1}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}Scientific Problem}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Problem definition}{3}{section.2.1}% 
+\contentsline {chapter}{\numberline {3}State of the art/Related work}{4}{chapter.3}% 
+\contentsline {chapter}{\numberline {4}Investigated approach}{5}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Application (numerical validation)}{6}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Methodology}{6}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Data}{6}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Results}{6}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Discussion}{7}{section.5.4}% 
+\contentsline {chapter}{\numberline {6}Conclusion and future work}{8}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Latex examples}{9}{chapter.7}% 
