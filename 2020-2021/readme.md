@@ -9,6 +9,7 @@ Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o pr
 4. [Automatizarea planificarii vacantelor](Projects/HollydayPlanner/readme.md)
 5. [Asistent automat pentru un student la istorie-arheologie](Projects/History/readme.md)
 6. [Analiza retelelor complexe](Projects/Network/readme.md)
+5. [Clusterizarea clientilor](Projects/CustomerSegmentation/readme.md)
 
 Proiectul implică:
 - alegerea unei teme
