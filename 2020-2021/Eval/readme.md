@@ -8,7 +8,7 @@
 | algoritm inteligent + real data / benchmark data | 5 | descriere metodologie experimentala si rezultate obtinute, comparare cu SOTA	| 5 | Lab4 |	
 | integrare algoritm inteligent in app | 5	| wiki/ontology/mind-map	| 5 | Lab5 |	
 | imbunatatirea algoritmului inteligent <br/> -	dpdv a calitatii procesului de rezolvare a problemei (optimizarea AI-ului) <br/> -	dpdv a complexitatii (complexitatea temporal, complexitatea spatiala, portabilitatea, etc.) | 10 | descrierea imbunatatirilor (metodologie si rezultate, analize comparative) | 10 | Lab 5-6 |
-| deploy| 10 | teaser de prezentare a proiectului (video & ppt) | 10 | Lab 6 |
+| perfectionare aplicatie | 10 | teaser de prezentare a proiectului (video & ppt) | 10 | Lab 6 |
 | demo cu client(i) | 10 | analiza si discutii | 10 | Lab7 |
 
 Bonus: Concursuri / articole stiintifice (puncte, puncte, puncte)
