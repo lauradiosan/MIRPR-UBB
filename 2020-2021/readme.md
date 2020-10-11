@@ -1,11 +1,11 @@
 # MIRPR-2020-2021
 
 ## Materiale curs
-Sapt 1: [Introducere](Lectures/00_intro.pdf)
-Sapt 2: [ML review](Lectures/01_ML_review.pdf)
-Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
-> [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
-Sapt 4: [Image processing and ML]()
+- Sapt 1: [Introducere](Lectures/00_intro.pdf)
+- Sapt 2: [ML review](Lectures/01_ML_review.pdf)
+- Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
+  > [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
+- Sapt 4: [Image processing and ML]()
 
 
 ## Detalii proiecte
