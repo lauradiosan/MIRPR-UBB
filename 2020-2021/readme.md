@@ -1,5 +1,15 @@
 # MIRPR-2020-2021
 
+## Materiale curs
+Sapt 1: [Introducere](Lectures/00_intro.pdf)
+Sapt 2: [ML review](Lectures/01_ML_review.pdf)
+Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
+> [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
+Sapt 4: [Image processing and ML]()
+
+
+## Detalii proiecte
+
 Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o problemă din domeniul Machine Learning (ML) în contextul unor date reale. Proiectul va fi evaluat atat la finalul semestrului, cat si pe parcursul semestrului cand fiecare echipă va trebui să prezinte cadrului didactic îndrumător aplicaţia realizată şi raportul tehnic aferent ei.
 
 **Lista proiectelor:**
