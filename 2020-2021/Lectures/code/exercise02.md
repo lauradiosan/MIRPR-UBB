@@ -1,6 +1,8 @@
 
 # Redimensionarea imaginilor
 
+*Nota: se pot folosi implementari native sau implementari bazate pe anumite tooluri specifice*
+
 **Exercitiul 1** 
 
 Sa se implementeze rutine pentru marirea unor imagini 2D RGB (din imagine mica in imagine mai mare) folosind metode de interpolare de tip:
