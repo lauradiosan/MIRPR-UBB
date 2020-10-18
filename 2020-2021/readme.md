@@ -5,7 +5,7 @@
 - Sapt 2: [ML review](Lectures/01_ML_review.pdf)
 - Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
   > [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
-- Sapt 4: [Image processing and ML]()
+- Sapt 4: [Image processing 2](Lectures/code/imgProcessingAttributes.ipynb)
 
 
 ## Detalii proiecte
