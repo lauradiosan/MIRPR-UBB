@@ -6,7 +6,7 @@
 - Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
   > [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
 - Sapt 4: [Image processing 2](Lectures/code/imgProcessingAttributes.ipynb)
-- Sapt 5: Deep learning [theoretical elements]](Lectures/code/deepLearning.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
+- Sapt 5: Deep learning [theoretical elements](Lectures/code/deepLearning.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
 
 
 ## Detalii proiecte
