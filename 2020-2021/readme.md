@@ -8,7 +8,7 @@
 - Sapt 4: [Image processing 2](Lectures/code/imgProcessingAttributes.ipynb)
 - Sapt 5-6: Deep learning [theoretical elements](Lectures/code/deepLearningWithExamples.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
 - Sapt 6: Image classification [theoretical elements](Lectures/code/imgClassification.ipynb)
-- Sapt 7-8: Object detection [notes](Lectures/imageDetection.ppt) and [examples](Lectures/code/objDetectionExamples.ipynb)
+- Sapt 7-8: Object detection [notes](Lectures/imgDetection.ppt) and [examples](Lectures/code/objDetectionExamples.ipynb)
 - Sapt 9: Image segmentation [notes](Lectures/imgSegmentation.ppt)
 
 ## Detalii proiecte
