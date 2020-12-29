@@ -9,7 +9,12 @@
 - Sapt 5-6: Deep learning [theoretical elements](Lectures/code/deepLearningWithExamples.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
 - Sapt 6: Image classification [theoretical elements](Lectures/code/imgClassification.ipynb)
 - Sapt 7-8: Object detection [notes](Lectures/imgDetection.ppt) and [examples](Lectures/code/objDetectionExamples.ipynb)
-- Sapt 9: Image segmentation [notes](Lectures/imgSegmentation.ppt)
+- Sapt 9: Autonomous driving - Cataling Golban (invitat)
+- Sapt 10: Image segmentation [notes](Lectures/imgSegmentation.ppt)
+- Sapt 11: Text mining and Natural Language Processing [notes](Lectures/textMining.ppt)
+- Sapt 12: Affective computing [notes](affectiveComputing.ppt)
+- Sapt 13: Graph Neural Networks [notes](graphNNs.ppt)
+
 
 ## Detalii proiecte
 
