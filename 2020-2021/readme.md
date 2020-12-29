@@ -12,8 +12,8 @@
 - Sapt 9: Autonomous driving - Cataling Golban (invitat)
 - Sapt 10: Image segmentation [notes](Lectures/imgSegmentation.ppt)
 - Sapt 11: Text mining and Natural Language Processing [notes](Lectures/textMining.ppt)
-- Sapt 12: Affective computing [notes](Lectures/affectiveComputing.ppt)
-- Sapt 13: Graph Neural Networks [notes](Lectures/graphNNs.ppt)
+- Sapt 12: Affective computing [notes](Lectures/affectiveComputing.pptx)
+- Sapt 13: Graph Neural Networks [notes](Lectures/graphNNs.pptx)
 
 
 ## Detalii proiecte
