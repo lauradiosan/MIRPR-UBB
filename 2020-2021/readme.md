@@ -14,7 +14,8 @@
 - Sapt 11: Text mining and Natural Language Processing [notes](Lectures/textMining.ppt)
 - Sapt 12: Affective computing [notes](Lectures/affectiveComputing.pptx)
 - Sapt 13: Graph Neural Networks [notes](Lectures/graphNNs.pptx)
-
+  * nice to read: six degrees of separation/freedom [ref1](https://www.goodreads.com/book/show/818170.Six_Degrees) [ref2](http://materias.df.uba.ar/dnla2019c1/files/2019/03/watts-collective_dynamics-nature_1998.pdf) versus four degrees [ref](https://arxiv.org/pdf/1111.4570.pdf)
+  * nice to watch [Experimenter movie](https://www.imdb.com/title/tt3726704/)
 
 ## Detalii proiecte
 
