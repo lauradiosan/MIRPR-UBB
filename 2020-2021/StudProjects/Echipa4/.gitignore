@@ -1,0 +1,7 @@
+/__pycache__
+/.vscode
+/.idea
+/data
+/venv/
+*.csv
+chromedriver.exe

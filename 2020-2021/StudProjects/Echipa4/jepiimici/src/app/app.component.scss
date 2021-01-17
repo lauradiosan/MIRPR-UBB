@@ -1,0 +1,16 @@
+.response {
+  padding-top: 16px;
+
+  a {
+    color: blue;
+    font-size: 16px;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.textarea {
+  min-width: 100%;
+  max-width: 100%;
+}

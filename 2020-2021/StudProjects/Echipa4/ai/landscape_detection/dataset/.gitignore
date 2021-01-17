@@ -1,0 +1,4 @@
+seg_pred/
+seg_test/
+seg_train/
+*.jpg
