@@ -1,5 +1,7 @@
 # MIRPR-2020-2021
 
+Teasers of the projects [link](https://youtube.com/playlist?list=PLWqoeian8g3Y7lBnsjs_KYnylayjJ5iwO)
+
 ## Materiale curs
 - Sapt 1: [Introducere](Lectures/00_intro.pdf)
 - Sapt 2: [ML review](Lectures/01_ML_review.pdf)
