@@ -41,7 +41,7 @@ Citiţi lista de date disponibile şi proiecte potenţiale. Se recomandă folosi
 
 
 **Dezvoltarea aplicatiei**
-In realizarea aplicatiei se pot folosi diferite limbaje de programare, tehnologii si instrumente specifice AI. Codebase-urile aferente aplicatiilor trebuie incarcate, inainte de expirarea termenelor, [aici](https://classroom.github.com/g/VHnuxXvH).
+In realizarea aplicatiei se pot folosi diferite limbaje de programare, tehnologii si instrumente specifice AI. Codebase-urile aferente aplicatiilor trebuie incarcate, inainte de expirarea termenelor, [aici](https://classroom.github.com/a/8tXgXWFs).
 
 **Raportul tehnic**
 Trebuie redactat in latex conform modelului de [aici](Report/texModel/model.tex) si trebuie sa fie structurat conform recomandarilor de [aici](Report/readme.md). 

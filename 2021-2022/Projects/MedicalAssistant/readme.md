@@ -29,6 +29,7 @@ In procesul de invatare desfasurat de un student la medicina ar fi utila o aplic
 1. https://github.com/deepmedic/deepmedic 
 2. https://github.com/christianpayer/MedicalDataAugmentationTool-MMWHS
 3. https://github.com/RonaldGalea/imATFIB 
+
 **Imagini**
 1. http://segchd.csail.mit.edu/data.html
 2. https://grand-challenge.org/challenges/
