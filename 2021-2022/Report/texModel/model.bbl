@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{Berlekamp82}
+E.~Berlekamp, J.~Conway, and J.~Guy.
+\newblock {\em Winning Ways}.
+\newblock Academic Press Inc., London, 1982.
+
+\bibitem{kennedy1}
+J.~Kennedy and R.~C. Eberhart.
+\newblock Particle swarm optimization.
+\newblock In {\em {I}nternational {C}onference on {N}eural {N}etworks}, pages
+  1942--1948. IEEE, 1995.
+
+\bibitem{Koh06}
+B.~Koh, A.~George, R.~Haftka, and B.~Fregly.
+\newblock Parallel asynchronous particle swarm optimization.
+\newblock {\em International Journal for Numerical Methods in Engineering},
+  67(4):578--595, 2006.
+
+\bibitem{firefox}
+Mozilla.
+\newblock Firefox {iOS} application.
+\newblock \href{https://github.com/mozilla-mobile/firefox-ios}{link}, 2018.
+
+\bibitem{Storn95}
+Rainer Storn and Kenneth Price.
+\newblock Differential evolution - a simple and efficient adaptive scheme for
+  global optimization over continuous spaces.
+\newblock Technical Report TR-95-012, International Computer Science Institute,
+  Berkeley, CA, March 1995.
+
+\end{thebibliography}
