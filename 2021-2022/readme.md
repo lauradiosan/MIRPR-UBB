@@ -22,10 +22,11 @@
 Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o problemă din domeniul Inteligentei Artificiale (AI) în contextul unor date reale. Proiectul va fi evaluat atat la finalul semestrului, cat si pe parcursul semestrului cand fiecare echipă va trebui să prezinte cadrului didactic îndrumător aplicaţia realizată şi raportul tehnic aferent ei.
 
 **Sugestii de proiecte:**
-1. [Clasificarea imaginilor medicare](Projects/MedicalAssistant/readme.md)
+1. [Clasificarea imaginilor medicale](Projects/MedicalAssistant/readme.md)
 2. [Calcul afectiv](Projects/EmotionKids/readme.md)
-5. [Reconstituiri istorice](Projects/History/readme.md)
-6. [Analiza retelelor complexe](Projects/Network/readme.md)
+3. [Reconstituiri istorice](Projects/History/readme.md)
+3. [Reconstituiri 3D](Projects/Reconstruction/readme.md)
+4. [Analiza retelelor complexe](Projects/Network/readme.md)
 5. [Clusterizarea clientilor](Projects/CustomerSegmentation/readme.md)
 
 Proiectul implică:

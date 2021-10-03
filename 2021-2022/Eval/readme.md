@@ -11,7 +11,7 @@
 | perfectionare aplicatie | 10 | teaser de prezentare a proiectului (video & ppt) | 10 | Lab 6 |
 | demo cu client(i) | 10 | analiza si discutii | 10 | Lab7 |
 
-Bonus: Concursuri / articole stiintifice (puncte, puncte, puncte)
+Bonus: Concursuri sau articole stiintifice sau interventii notabile de-a lungul activitatii.
 
 
 | Punctaj total | Nota |
