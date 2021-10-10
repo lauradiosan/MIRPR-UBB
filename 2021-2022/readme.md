@@ -2,11 +2,11 @@
 
 ## Materiale curs
 - Sapt 1: [Introducere](Lectures/00_intro.pdf)
-<!-- - Sapt 2: [ML review](Lectures/01_ML_review.pdf)
+- Sapt 2: [ML review](Lectures/01_ML_reviewAlgo.pdf)
 - Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
   > [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
 - Sapt 4: [Image processing 2](Lectures/code/imgProcessingAttributes.ipynb)
-- Sapt 5-6: Deep learning [theoretical elements](Lectures/code/deepLearningWithExamples.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
+<!-- - Sapt 5-6: Deep learning [theoretical elements](Lectures/code/deepLearningWithExamples.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
 - Sapt 6: Image classification [theoretical elements](Lectures/code/imgClassification.ipynb)
 - Sapt 7-8: Object detection [notes](Lectures/imgDetection.ppt) and [examples](Lectures/code/objDetectionExamples.ipynb)
 - Sapt 9: Autonomous driving - Cataling Golban (invitat)
