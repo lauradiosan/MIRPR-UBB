@@ -28,6 +28,7 @@ Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o pr
 4. [Analiza retelelor complexe](Projects/Network/readme.md)
 5. [Clusterizarea clientilor](Projects/CustomerSegmentation/readme.md)
 6. [Voce in text si invers](Projects/Voice2Text/readme.md)
+7. [Clima](Projects/Clima/reademe.md)
 
 
 Proiectul implică:
