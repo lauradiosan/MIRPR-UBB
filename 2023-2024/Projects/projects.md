@@ -312,3 +312,36 @@ Gradul tumorii cancerului de sân este puternic asociat cu supraviețuirea pacie
 More details [link](2023_04_03_SemesterProjects_Bosch.pdf)
 
 </details>
+
+
+<details>
+    <summary> 10. Procesarea hartilor meteo </summary>
+
+### Scop
+Identificarea fronturilor atmosferice in imagini de tip "synoptic map"
+
+
+### Ideea de baza
+Identificarea in imagini a fronturilor atmosferice ;i corelarea lor cu incidentele de tip AVC. 
+S-a constatat ca de-a lungul timpului distributia pe zile a accidentelor vasculare se poate corela cu anumit factori meteo precum frontul atmosferic, presiunea, temepratura, etc.
+Primul pas ar fi identificarea acestor fronturi ]n imaginile de tip "synoptic map". 
+
+
+
+### TODOlist
+1. Colectarea de imagini de tip "synoptic map".
+2. identificarea fronturilor in imagini si clasificarea fronturilor (reci, calde, mixte).
+3. corelarea fronturilor cu alte variabile meteo (temperatura, presiunea)
+4. corelarea datelor meteo cu date medicale
+
+### Date si referinte
+**Date si biblioteci**
+- https://www.wetter3.de/archiv_dwd_dt.html
+- https://danepubliczne.imgw.pl/datastore
+
+
+
+**Metode de lucru**
+- https://www.rmets.org/metmatters/how-interpret-weather-chart
+- https://www.weather.gov/jetstream/wxmaps
+- https://wcd.copernicus.org/articles/3/113/2022/wcd-3-113-2022.pdf
