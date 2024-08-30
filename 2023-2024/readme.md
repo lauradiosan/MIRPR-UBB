@@ -1,5 +1,7 @@
 # MIRPR-2023-2024
 
+Proiectele editiei 2023-2024 [link](https://youtube.com/playlist?list=PLWqoeian8g3YajfphknOXtBpiQTR_ToBT&feature=shared)
+
 ## Materiale curs
 - Sapt 1: [Introducere](Lectures/00_intro.pdf)
 <!-- - Sapt 2: [ML review](Lectures/01_ML_reviewAlgo.pdf)
