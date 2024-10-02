@@ -40,8 +40,8 @@ In order to improve the performance of indoor room semantic segmentation and\or 
 
 ### Bibliografie
 
-Data [link](NYU Depth Dataset V2 - https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
-NYU Dataset [link](https://cs.nyu.edu/~fergus/datasets/indoor_seg_support.pdf)
+Data [NYU Depth Dataset V2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
+- [NYU Dataset](https://cs.nyu.edu/~fergus/datasets/indoor_seg_support.pdf)
 
 ControlNet 
 - article Zhang, L., Rao, A., & Agrawala, M. (2023). Adding conditional control to text-to-image diffusion models. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3836-3847) [link](https://arxiv.org/pdf/2302.05543)
@@ -89,10 +89,11 @@ Rezulate cu AI
 
 
 ### Data
-- Examinari CBCT – format DICOM  
-- Reconstructii panoramice - identificarea zonelor edentate  pentru plasarea implantelor  
+- Examinari CBCT – format DICOM 
+[link](https://github.com/IvisionLab/OdontoAI-Open-Panoramic-Radiographs/blob/main/README.md) 
+<!-- - Reconstructii panoramice - identificarea zonelor edentate  pentru plasarea implantelor  
 - Recosntructie OPT 
-- Reconstructii cross-section cu Masuratori ale crestei edentate  
+- Reconstructii cross-section cu Masuratori ale crestei edentate   -->
 
 ### Bibliografie
 Flow general: 
