@@ -236,13 +236,63 @@ Causality inspired GNNs [link](https://github.com/usail-hkust/Awesome-Causality-
 
 Wang, L., Adiga, A., Chen, J., Sadilek, A., Venkatramanan, S., & Marathe, M. (2022, June). Causalgnn: Causal-based graph neural networks for spatio-temporal epidemic forecasting. In Proceedings of the AAAI conference on artificial intelligence (Vol. 36, No. 11, pp. 12191-12199). [link](https://arxiv.org/pdf/2312.12477)
 
+</details>
 
 
 
+<details>
+    <summary> Localizarea cancerului de col uterin </summary>
+### Scop
+Identificarea automata a leziunilor in cancerul de col uterin in imagini de tip RMN
 
+### Ideea de baza
+### TODOlist
+1. Iteratia1
+2. Iteratia2
+### Data
+- dataset1 [link](https://synthrad2023.grand-challenge.org/)
+- dataset2 [link](https://github.com/SynthRAD2023/preprocessing)
+
+### Bibliografie
+- Bourgioti, C., Chatoupis, K., & Moulopoulos, L. A. (2016). Current imaging strategies for the evaluation of uterine cervical cancer. World journal of radiology, 8(4), 342. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840192/)
+- Zaki, N., Qin, W., & Krishnan, A. (2023). Graph-based methods for cervical cancer segmentation: Advancements, limitations, and future directions. AI Open. [link](https://www.sciencedirect.com/science/article/pii/S2666651023000086)
+- Kurata, Y., Nishio, M., Moribata, Y., Kido, A., Himoto, Y., Otani, S., ... & Nakamoto, Y. (2021). Automatic segmentation of uterine endometrial cancer on multi-sequence MRI using a convolutional neural network. Scientific Reports, 11(1), 14440.[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8280152/#MOESM1)
+- Lin, Y. C., Lin, Y., Huang, Y. L., Ho, C. Y., Chiang, H. J., Lu, H. Y., ... & Lin, G. (2023). Generalizable transfer learning of automated tumor segmentation from cervical cancers toward a universal model for uterine malignancies in diffusion-weighted MRI. Insights into Imaging, 14(1), 14. [link](https://insightsimaging.springeropen.com/articles/10.1186/s13244-022-01356-8)
+- Afshar, P., Mohammadi, A., Plataniotis, K. N., Oikonomou, A., & Benali, H. (2019). From handcrafted to deep-learning-based cancer radiomics: challenges and opportunities. IEEE Signal Processing Magazine, 36(4), 132-160. [link](https://arxiv.org/pdf/1808.07954.pdf)
 
 </details>
 
+
+
+<details>
+    <summary> Evolutia gripei </summary>
+
+### Scop
+Identificarea predictorilor imunitari de bază care pot discrimina între persoanele cu răspuns ridicat sau scăzut după vaccinarea antigripală
+
+### Ideea de baza
+Sistemul imunitar cuprinde mai multe tipuri de celule care lucrează împreună pentru a dezvolta un răspuns eficient la un anumit agent patogen. Cu toate acestea, care dintre aceste nenumărate tipuri de celule sunt importante într-un anumit răspuns nu este bine înțeles. Abordarea imunologică își propune să măsoare impactul expresiei genelor și diferitelor celule și molecule din sistemul imunitar în timpul unei infecții sau vaccinări și utilizează metodelor de Machine Learning pentru a discerne care componente sunt cele mai importante. Aceste studii au scopul practic de a determina ce face o formulare de vaccin mai bună decât alta sau modul în care indivizii variază. Pentru a realiza acest lucru, este crucială o modelare precisă a proceselor complexe care duc la un rezultat de succes.
+
+### TODOlist
+
+1. Definirea problemei (ce se da si ce se cere):
+- Pornind de la un set de date de tip tabelar, sa se prelucreze datele si sa se antreneze un model AI de clasificare. 
+2. Analiza datelor de intrare:
+- Descarcarea unui set de date [link](https://zenodo.org/records/3222451). 
+- analiza exploratorie a datelor
+3. Dezvoltarea unui model de AI si evaluarea performantei; stabilirea celor mai importante atribute din model
+4. Propuneri de imbunatatiri
+
+### Data
+1. FluPRINT database [link](https://zenodo.org/records/3222451). 
+2. A small dataset [link](https://journals.aai.org/jimmunol/article-supplement/107431/xlsx/ji_1900033_supplemental_table_14/)
+2. Another tiny dataset [link](https://journals.aai.org/jimmunol/article-supplement/107431/xlsx/ji_1900033_supplemental_table_18/)
+
+### Bibliografie
+1. Tomic, A., Tomic, I., Rosenberg-Hasson, Y., Dekker, C. L., Maecker, H. T., & Davis, M. M. (2019). SIMON, an automated machine learning system, reveals immune signatures of influenza vaccine responses. The Journal of Immunology, 203(3), 749-759. [link](https://journals.aai.org/jimmunol/article/203/3/749/107431)
+2. Tomic, A., Tomic, I., Dekker, C. L., Maecker, H. T., & Davis, M. M. (2019). The FluPRINT dataset, a multidimensional analysis of the influenza vaccine imprint on the immune system. Scientific data, 6(1), 214. [link](https://www.nature.com/articles/s41597-019-0213-4)
+3. Weissler, E. H., Naumann, T., Andersson, T., Ranganath, R., Elemento, O., Luo, Y., ... & Ghassemi, M. (2021). The role of machine learning in clinical research: transforming the future of evidence generation. Trials, 22, 1-15. [link](https://link.springer.com/content/pdf/10.1186/s13063-021-05489-x.pdf)
+</details>
 
 
 <details>
@@ -259,6 +309,15 @@ The Early Discovery of Anxiety/Depression in Teenagers solution leverages digita
 2. Iteratia2 -->
 ### Data
 ### Bibliografie
+
+- [link](https://arxiv.org/abs/2402.16182)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11025697/)
+- [link](https://home.dartmouth.edu/news/2024/02/phone-app-uses-ai-detect-depression-facial-cues)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9461333)
+- [link](https://chatgpt.com/g/g-IMV77BDMO-depression)
+- [link](https://www.sciencedirect.com/science/article/pii/S0001691824002877)
+- [link](https://www.mdpi.com/1999-4893/16/12/543)
+- DeepWell DTx - ideea of implementation ;) [link](https://www.deepwelldtx.com/)
 </details>
 
 
@@ -276,6 +335,19 @@ The Predictive Mental Health Monitoring System is a cutting-edge solution design
 2. Iteratia2 -->
 ### Data
 ### Bibliografie
+- [link](https://pubmed.ncbi.nlm.nih.gov/25398168/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/26875620/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/17805308/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/25628520/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/29386207/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/16033674/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/29240871/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/23685197/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/21658563/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/31236817/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/29727550/)
+
+
 </details>
 
 
@@ -294,6 +366,23 @@ The Digital Triage System is designed to function as a companion that uses advan
 2. Iteratia2 -->
 ### Data
 ### Bibliografie
+- [link](https://go.jamasoftware.com/the-rapid-rise-of-digital-health-technology.html?kw=digital%20technology%20in%20healthcare&cpn=11827675850&utm_source=google&utm_medium=cpc&utm_campaign=emea-search-medical-nonb&utm_adgroup=digital-health&utm_term=digital%20technology%20in%20healthcare&utm_content=582244983547&_bm=11827675850136122053649&gad_source=1&gclid=EAIaIQobChMIvNCu-u7piAMV0aqDBx0RsCSsEAAYAiAAEgIH1fD_BwE)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794085/)
+- [link](https://infermedica.com/solutions/triage)
+- [link](https://transform.england.nhs.uk/key-tools-and-info/digital-playbooks/gastroenterology-digital-playbook/using-intelligent-automation-to-improve-the-triage-and-referral-management-pathway/)
+- [link](https://www.sciencedirect.com/science/article/abs/pii/S0738399123004573)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11158416/)
+- [link](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1297073/full)
+- [link](https://xby2.com/case-studies/next-gen-ai-powered-emergency-triage/)
+- [link](https://aws.amazon.com/ai/generative-ai/?gclid=EAIaIQobChMI7eOCjO_piAMVtpCDBx21lxHOEAAYASAAEgL_f_D_BwE&trk=718bb85a-f217-4294-bf55-ee86400cb863&sc_channel=ps&ef_id=EAIaIQobChMI7eOCjO_piAMVtpCDBx21lxHOEAAYASAAEgL_f_D_BwE:G:s&s_kwcid=AL!4422!3!686079230781!p!!g!!generative%20ai%20applications!20901655430!157427215859)
+- [link](https://www.youtube.com/watch?v=S1E8jQofS_Y)
+- [link](https://www.youtube.com/watch?v=yaTg9bNUeE8)
+- [link](https://www.youtube.com/watch?v=c9hThlZNU0o)
+- [link](https://www.clearstep.health/blog/generative-ai-in-healthcare-safely-harness-its-power-with-clinically-validated-virtual-triage)
+- [link](https://medium.com/columbia-journal-of-science-tech-ethics-and-policy/harnessing-the-power-of-ai-in-emergency-triage-a-paradigm-shift-0af7786948bd_
+- [link](https://618media.com/en/blog/claude-ai-in-healthcare-applications/)
+- [link](https://www.sciencedirect.com/science/article/pii/S2589750024000979)
+
 </details>
 
 <details>
@@ -311,6 +400,17 @@ The Predict the Actions of Substances system aims to use computational biology a
 2. Iteratia2 -->
 ### Data
 ### Bibliografie
+
+- [link](https://www.gc.cuny.edu/news/new-ai-model-can-accurately-predict-human-response-novel-drug-compounds)
+- [link](https://theconversation.com/ai-system-can-predict-the-structures-of-lifes-molecules-with-stunning-accuracy-helping-to-solve-one-of-biologys-biggest-problems-229745)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143484/)
+- [link](https://www.nature.com/articles/s42256-022-00541-0)
+- [link](https://www.researchgate.net/figure/Overview-of-CODE-AE-a-Rationale-of-CODE-AE-Mechanistically-drug-response-biomarkers_fig1_364350188)
+- [link](https://www.researchgate.net/publication/348958834_CODE-AE_A_Coherent_De-confounding_Autoencoder_for_Predicting_Patient-Specific_Drug_Response_From_Cell_Line_Transcriptomics)
+- [link](https://deepmind.google/technologies/alphafold/)
+- [link](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+- [link](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
+
 </details>
 
 <details>
@@ -327,6 +427,15 @@ The Elderly People Caring Platform is designed to support the aging population b
 2. Iteratia2 -->
 ### Data
 ### Bibliografie
+- [link](https://healthtechmagazine.net/article/2024/04/embracing-generative-ai-and-large-language-models-senior-care)
+- [link](https://www.linkedin.com/pulse/harnessing-generative-ai-revolutionize-senior-care-future-skaria-vfckc/)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10534283/)
+- [link](https://celiatecuida.com/en/home_en/) - GOOOD EXAMPLE
+- [link](https://www.matellio.com/blog/ai-companion-for-elderly/)
+- [link](https://www.ageinplacetech.com/blog/five-examples-use-ai-care-older-adults)
+- [link](https://witlingo.com/gen-ai-senior-living/)
+- [link](https://automationedge.com/blogs/generative-ai-in-home-care/)
+
 </details>
 
 
