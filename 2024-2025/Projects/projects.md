@@ -16,10 +16,10 @@
 
 
 <details>
-    <summary> Indoor Room Generation using Stable Diffusion </summary>
+    <summary> <img style="vertical-align:middle"  src="images\indoor.jpeg" alt="networks" width="100"/> Indoor Room Generation using Stable Diffusion (Owner: Alexandru Manole) </summary>
 
-### Scop
-Generate Realistic Synthetic Images of Indoor Scenes – To improve the performance of data-hungry AI models which require large datasets in order to reach their full potential.
+### Scop 
+Generate Realistic Synthetic Images of Indoor Scenes – To improve the performance of data-hungry AI models which require large datasets in order to reach their full potential. 
 
 ### Ideea de baza
 In order to improve the performance of indoor room semantic segmentation and\or depth estimation, develop a Stable Diffusion-based model (i.e. ControlNet) for realistic image generation. Evaluate the quality of the generated samples.
@@ -62,7 +62,7 @@ Fréchet Inception Distance
 
 
 <details>
-    <summary> Optimal therapeutic plan for implants </summary>
+    <summary>   Optimal therapeutic plan for implants (owner: dna. dr. Mihaela Hedesiu) <img style="vertical-align:middle"  src="images\implantPlan.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 Dezvoltarea   unor algoritmi AI pentru predictia unui plan therapeutic implantar optim si personalizat adaptat situatiei anatomice a pacientului.  
@@ -114,7 +114,7 @@ nnU-Net
 
 
 <details>
-    <summary> Automatic model for risk estimation of peri-implantitis </summary>
+    <summary> <img style="vertical-align:middle" src="images\periimplantitis.jpeg" alt="networks" width="100"/> Automatic model for risk estimation of peri-implantitis (owner: dna. dr. Mihaela Hedesiu)    </summary>
 
 ### Scop
 Modele AI pentru evaluarea riscului de aparitie  a periimplantitei  
@@ -140,7 +140,7 @@ Modele AI pentru evaluarea riscului de aparitie  a periimplantitei
 </details>
  
 <details>
-    <summary> Estimation of Land Surface Temperature </summary>
+    <summary> Estimation of Land Surface Temperature (owner: dna. prof.Adina Croitoru & Adriana Coroiu) <img style="vertical-align:middle" src="images\lst.png" alt="networks" width="100"/> </summary>
 
 ### Scop
 Cresterea de rezolutie a informatilor de pe imaginile satelitare 
@@ -172,7 +172,7 @@ Graph Neural Networks
 </details>
 
 <details>
-    <summary> Prediction of extreme events </summary>
+    <summary><img style="vertical-align:middle" src="images\extremeEvents.jpeg" alt="networks" width="100"/>  Prediction of extreme events (owner: dna prof. Adina Croitoru & Adriana Coroiu) </summary>
 
 ### Scop
 Imbunatatirea prognozelor pentru fenomene extreme 
@@ -207,7 +207,7 @@ Artciol cu CNN si date
 
 
 <details>
-    <summary> Causality identification </summary>
+    <summary> Causality identification (owner: dl. dr. Dan Blendea)  <img  style="vertical-align:middle" src="images\causality.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
 Identificarea cauzelor insuficientei mitrale
@@ -242,7 +242,7 @@ Wang, L., Adiga, A., Chen, J., Sadilek, A., Venkatramanan, S., & Marathe, M. (20
 
 
 <details>
-    <summary> Localizarea cancerului de col uterin </summary>
+    <summary> <img  style="vertical-align:middle"  src="images\cancer.jpeg" alt="networks" width="100"/> Localizarea cancerului de col uterin (owner: dl. dr. Andrei Roman) </summary>
 ### Scop
 Identificarea automata a leziunilor in cancerul de col uterin in imagini de tip RMN
 
@@ -266,7 +266,7 @@ Identificarea automata a leziunilor in cancerul de col uterin in imagini de tip 
 
 
 <details>
-    <summary> Evolutia gripei </summary>
+    <summary> Evolutia gripei (owner: dl. prof. Zoltan Balint) <img style="vertical-align:middle" src="images\influenza.jpeg" alt="networks" width="100"/>  </summary>
 
 ### Scop
 Identificarea predictorilor imunitari de bază care pot discrimina între persoanele cu răspuns ridicat sau scăzut după vaccinarea antigripală
@@ -297,7 +297,7 @@ Sistemul imunitar cuprinde mai multe tipuri de celule care lucrează împreună 
 
 
 <details>
-    <summary> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools </summary>
+    <summary> <img style="vertical-align:middle" src="images\anxiety.jpeg" alt="networks" width="100"/> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools (Owner: Cristiana Bogateanu si Vlad Neste)  </summary>
 
 ### Scop
 Anxiety/Depression for teenagers - To enhance mental health support for teenagers by developing digital tools that can proactively identify signs of anxiety and depression. These tools aim to engage with adolescents in their digital environments—whether through chatbots, social media, video games, or other innovative platforms—to provide early intervention and emotional support. 
@@ -323,7 +323,7 @@ The Early Discovery of Anxiety/Depression in Teenagers solution leverages digita
 
 
 <details>
-    <summary> Predictive Mental Health Monitoring System   </summary>
+    <summary> Predictive Mental Health Monitoring System  (Owner: Cristiana Bogateanu si Vlad Neste) <img style="vertical-align:middle" src="images\mentalHealth.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
 Mental Health - To empower individuals and healthcare providers by offering a predictive mental health monitoring system that proactively identifies and mitigates the risk of suicidal actions through the continuous and intelligent analysis of health data collected from wearable devices.  
@@ -353,7 +353,7 @@ The Predictive Mental Health Monitoring System is a cutting-edge solution design
 
 
 <details>
-    <summary> Digital Triage System </summary>
+    <summary>   <img style="vertical-align:middle" src="images\triage.jpeg" alt="networks" width="100"/> Digital Triage System (Owner: Cristiana Bogateanu si Vlad Neste) </summary>
 
 ### Scop
 Digital Triage - To support individuals and healthcare providers by offering a smart system that helps identify the most appropriate healthcare professional based on an individual's symptoms, ensuring faster and more accurate access to the right medical care. 
@@ -387,7 +387,7 @@ The Digital Triage System is designed to function as a companion that uses advan
 </details>
 
 <details>
-    <summary> Support in the drug development  </summary>
+    <summary> Support in the drug development (Owner: Cristiana Bogateanu si Vlad Neste) <img  style="vertical-align:middle" src="images\drugs.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
 Predict the Actions of Substances on the Human Body - To develop a high-fidelity system capable of accurately predicting the actions and reactions of substances within the human body, starting with their interactions with proteins, ultimately advancing drug discovery and personalized medicine. 
@@ -415,10 +415,10 @@ The Predict the Actions of Substances system aims to use computational biology a
 </details>
 
 <details>
-    <summary> Elderly People Caring Platform  </summary>
+    <summary> <img  style="vertical-align:middle" src="images\elderly.jpeg" alt="networks" width="100"/> Elderly People Caring Platform (Owner: Cristiana Bogateanu si Vlad Neste)  </summary>
 
 ### Scop
-Problem Statement: Elderly People Support - To provide a comprehensive and user-friendly platform that integrates data from various health conditions affecting the elderly, offering personalized recommendations, health status insights, and gamified elements to encourage healthy behaviors and proactive care. 
+Elderly People Support - To provide a comprehensive and user-friendly platform that integrates data from various health conditions affecting the elderly, offering personalized recommendations, health status insights, and gamified elements to encourage healthy behaviors and proactive care. 
 
 ### Ideea de baza
 The Elderly People Caring Platform is designed to support the aging population by consolidating data from multiple health conditions, such as cardiovascular disease, diabetes, and cognitive decline. The platform uses this data to provide actionable health recommendations and guidance on the appropriate healthcare pathways. Additionally, the system offers real-time insights into the user’s health status, making it easier to track changes and improvements over time. By incorporating gamification elements, such as health challenges, milestones, and rewards, the platform aims to engage elderly users in maintaining and improving their health in an enjoyable and motivating way. 
@@ -443,9 +443,10 @@ The Elderly People Caring Platform is designed to support the aging population b
 
 
 <details>
-    <summary> SimQuery </summary>
+    <summary> SimQuery (Owner: dl. Lucian Munteanu) <img style="vertical-align:middle"  src="images\news.jpg" alt="networks" width="100"/></summary>
 
 ### Scop
+Journalists and content creators need a system to verify the accuracy of information before publishing. The system should check if the content is supported by the already validated data (Ground Truth).
 - To query a ground truth database (in order to retrieve information using natural language The result of the query can be actual relevant data stored in the GT or it can be generated content using data summarization or other techniques. 
 - To identify if a piece of information is supported by the GT The support detection process should allow for the system to automatically detect ground truth information which supports a certain piece of information 
 
@@ -471,9 +472,11 @@ Support  -definition- an information supports another information if there is a 
 
 
  <details>
-    <summary> TSQS (Text Style Query System) </summary>
+    <summary> <img style="vertical-align:middle"  src="images\tst.jpeg" alt="networks" width="100"/> TSQS (Text Style Query System) (Owner: dl. Lucian Munteanu)  </summary>
 
 ### Scop
+Personalized Learning Assistant - Students need to ask questions and receive answers in a style that matches their preferred learning method. Such a system should also analyze their writing style and provide feedback to improve their academic writing.
+
 - To query a ground truth database (in order to retrieve information using natural language) The result of the query can be actual relevant data stored in the GT or it can be generated content using data summarization or other techniques. 
 - To identify and analyze the style of a piece of information by itself and comparing with GT style(s) The style detection process should allow for the system to automatically detect ground truth information which has similar style with the piece of information  
 
