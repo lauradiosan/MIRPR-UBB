@@ -174,7 +174,7 @@ Graph Neural Networks
 <details>
     <summary><img style="vertical-align:middle" src="images\extremeEvents.jpeg" alt="networks" width="100"/>  Prediction of extreme events (owner: dna prof. Adina Croitoru & Adriana Coroiu) </summary>
 
-### Scop
+<!-- ### Scop
 Imbunatatirea prognozelor pentru fenomene extreme [link](2024-2025\Projects\Challenges_Hackaton_Info_UBB-FAG.pptx)
 
 ### Ideea de baza
@@ -204,10 +204,10 @@ Artciol cu CNN si date
 
 
 </details> -->
-
+ -->
 
 <details>
-    <summary><img style="vertical-align:middle" src="images\extremeEvents.jpeg" alt="networks" width="100"/>  Identify the interactions between SDG targets/indices for maximizing the investment impact (owner: dna prof. Adina Croitoru & Adriana Coroiu) </summary>
+    <summary><img style="vertical-align:middle" src="images\sdg.png" alt="networks" width="100"/>  Identify the interactions between SDG targets/indices for maximizing the investment impact (owner: dna prof. Adina Croitoru & Adriana Coroiu) </summary>
 
 ### Scop
 Imbunatatirea prognozelor pentru fenomene extreme [link](2024-2025\Projects\Challenges_Hackaton_Info_UBB-FAG.pptx)
