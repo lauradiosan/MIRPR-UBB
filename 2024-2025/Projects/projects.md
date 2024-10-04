@@ -65,7 +65,7 @@ Fréchet Inception Distance
     <summary>   Optimal therapeutic plan for implants (owner: dna. dr. Mihaela Hedesiu) <img style="vertical-align:middle"  src="images\implantPlan.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
-Dezvoltarea   unor algoritmi AI pentru predictia unui plan therapeutic implantar optim si personalizat adaptat situatiei anatomice a pacientului.  
+Dezvoltarea   unor algoritmi AI pentru predictia unui plan therapeutic implantar optim si personalizat adaptat situatiei anatomice a pacientului.  [link](2024-2025\Projects\Implant planning-articole.pptx)
 
 
 ### Ideea de baza
@@ -117,7 +117,7 @@ nnU-Net
     <summary> <img style="vertical-align:middle" src="images\periimplantitis.jpeg" alt="networks" width="100"/> Automatic model for risk estimation of peri-implantitis (owner: dna. dr. Mihaela Hedesiu)    </summary>
 
 ### Scop
-Modele AI pentru evaluarea riscului de aparitie  a periimplantitei  
+Modele AI pentru evaluarea riscului de aparitie  a periimplantitei  [link](2024-2025\Projects\Implant planning-articole.pptx)
 
 ### Ideea de baza
 - algoritmi AI de identificare a factorilor asociati cu dezvolatrea periimplantitei  
@@ -143,7 +143,7 @@ Modele AI pentru evaluarea riscului de aparitie  a periimplantitei
     <summary> Estimation of Land Surface Temperature (owner: dna. prof.Adina Croitoru & Adriana Coroiu) <img style="vertical-align:middle" src="images\lst.png" alt="networks" width="100"/> </summary>
 
 ### Scop
-Cresterea de rezolutie a informatilor de pe imaginile satelitare 
+Cresterea de rezolutie a informatilor de pe imaginile satelitare [link](2024-2025\Projects\Challenges_Hackaton_Info_UBB-FAG.pptx)
 
 ### Ideea de baza
 Estimarea temperaturii aerului la nivelul străzilor este o sarcină dificilă din cauza suprafețelor urbane foarte eterogene, a morfologiei străzilor asemănătoare unor canioane și a diverselor procese fizice din mediul construit. Deși studiile de pionierat s-au angajat în investigații prin abordări bazate pe date, multe întrebări rămân inca fara răspuns. Problema de estimare a temperaturii la nivelul străzilor se poate rezolva cu ajutorul rețelele neuronale bazate pe grafe (GNN) si cu tehnici de reprezentare spațială a informatiilor (embeddings). În mod colectiv, acest studiu contribuie, de asemenea, la planificarea și politica urbană, oferind căi de îmbunătățire a rezistenței orașului la schimbările climatice, promovând astfel agenda pentru gestionarea mediului și sustenabilitatea urbană.
@@ -170,12 +170,12 @@ Graph Neural Networks
 
 
 </details>
-
+<!-- 
 <details>
     <summary><img style="vertical-align:middle" src="images\extremeEvents.jpeg" alt="networks" width="100"/>  Prediction of extreme events (owner: dna prof. Adina Croitoru & Adriana Coroiu) </summary>
 
 ### Scop
-Imbunatatirea prognozelor pentru fenomene extreme 
+Imbunatatirea prognozelor pentru fenomene extreme [link](2024-2025\Projects\Challenges_Hackaton_Info_UBB-FAG.pptx)
 
 ### Ideea de baza
 Evenimentele atmosferice extreme provoacă daune grave societăților umane și ecosistemelor. Frecvența și intensitatea evenimentelor extreme și a altor evenimente asociate cresc continuu din cauza schimbărilor climatice și a încălzirii globale. Predicția si caracterizarea cu precizie a evenimentelor extreme atmosferice este, prin urmare, un domeniu cheie de cercetare în care multe grupuri lucrează în prezent prin aplicarea diferitelor metodologii și instrumente de calcul. Metodele de învățare automată și de învățare profundă au apărut în ultimii ani ca tehnici puternice pentru a aborda multe dintre problemele legate de evenimentele atmosferice extreme. 
@@ -203,14 +203,59 @@ Artciol cu CNN si date
 
 
 
-</details>
+</details> -->
 
+
+<details>
+    <summary><img style="vertical-align:middle" src="images\extremeEvents.jpeg" alt="networks" width="100"/>  Identify the interactions between SDG targets/indices for maximizing the investment impact (owner: dna prof. Adina Croitoru & Adriana Coroiu) </summary>
+
+### Scop
+Imbunatatirea prognozelor pentru fenomene extreme [link](2024-2025\Projects\Challenges_Hackaton_Info_UBB-FAG.pptx)
+
+### Ideea de baza
+
+Sustainable development is an approach that attempts to balance the social and economic needs of present and future human generations with the imperative of preserving or preventing undue damage to the natural environment  long-term planning. 
+
+The 2030 Agenda for Sustainable Development is a global framework adopted by UN, a core guiding document and a global framework adopted by all United Nations members in 2015. 
+- Agenda 2030 (Romania)
+
+Structure of goals, targets and indicators:
+- 17 SDGs - UN resolution.
+- Each goal typically has 8-12 targets;
+- Each target has 1-4 indicators used to measure progress toward reaching the targets, They are: 
+    - outcome targets (circumstances to be attained) or
+    - means of implementation targets.
+
+### TODOlist
+To develop a model aiming to prioritize intervention (investments) in a territorial unit to maximize the impact.
+For each target/indicator  a map of interactions (a tree).
+
+Ex: educational efforts for girls (goal 4) would enhance maternal health outcomes (part of goal 3), and contribute to poverty eradication (goal 1), gender equality (goal 5) and economic growth (goal 8).
+
+Why? All types of organizations must report financially and non-financially based on SDGs !!!  This type of analysis could improve the efficacity of the investments!
+
+
+### Data
+
+Database - Eurostat (europa.eu) [link](https://ec.europa.eu/eurostat/web/sdi/database)
+
+
+### Bibliografie
+- Nilsson M, Griggs D, Visbeck M (2016) Map the interactions between Sustainable Development Goals. NATURE | VOL 534 |
+- Rezultate | România Durabilă (gov.ro)
+- Romania Durabila 2030 (gov.ro)
+- [link](https://unstats.un.org/sdgs/indicators/indicators-list)
+- [link](https://ec.europa.eu/eurostat/web/sdi/indicators)
+- [link](http://romania-durabila.gov.ro/wp-content/uploads/2022/02/INDD_tin te2030_14febr2022.pdf()
+
+
+</details>
 
 <details>
     <summary> Causality identification (owner: dl. dr. Dan Blendea)  <img  style="vertical-align:middle" src="images\causality.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
-Identificarea cauzelor insuficientei mitrale
+Identificarea cauzelor insuficientei mitrale [link](2024-2025\Projects\variabilitate.pdf)
 
 ### Ideea de baza
 
@@ -244,7 +289,7 @@ Wang, L., Adiga, A., Chen, J., Sadilek, A., Venkatramanan, S., & Marathe, M. (20
 <details>
     <summary> <img  style="vertical-align:middle"  src="images\cancer.jpeg" alt="networks" width="100"/> Localizarea cancerului de col uterin (owner: dl. dr. Andrei Roman) </summary>
 ### Scop
-Identificarea automata a leziunilor in cancerul de col uterin in imagini de tip RMN
+Identificarea automata a leziunilor in cancerul de col uterin in imagini de tip RMN [link](2024-2025\Projects\Cancer de col uterin-1.pptx)
 
 ### Ideea de baza
 ### TODOlist
@@ -269,7 +314,7 @@ Identificarea automata a leziunilor in cancerul de col uterin in imagini de tip 
     <summary> Evolutia gripei (owner: dl. prof. Zoltan Balint) <img style="vertical-align:middle" src="images\influenza.jpeg" alt="networks" width="100"/>  </summary>
 
 ### Scop
-Identificarea predictorilor imunitari de bază care pot discrimina între persoanele cu răspuns ridicat sau scăzut după vaccinarea antigripală
+Identificarea predictorilor imunitari de bază care pot discrimina între persoanele cu răspuns ridicat sau scăzut după vaccinarea antigripală [link](2024-2025\Projects\BalintZ_FluPRINT_04102024.pptx)
 
 ### Ideea de baza
 Sistemul imunitar cuprinde mai multe tipuri de celule care lucrează împreună pentru a dezvolta un răspuns eficient la un anumit agent patogen. Cu toate acestea, care dintre aceste nenumărate tipuri de celule sunt importante într-un anumit răspuns nu este bine înțeles. Abordarea imunologică își propune să măsoare impactul expresiei genelor și diferitelor celule și molecule din sistemul imunitar în timpul unei infecții sau vaccinări și utilizează metodelor de Machine Learning pentru a discerne care componente sunt cele mai importante. Aceste studii au scopul practic de a determina ce face o formulare de vaccin mai bună decât alta sau modul în care indivizii variază. Pentru a realiza acest lucru, este crucială o modelare precisă a proceselor complexe care duc la un rezultat de succes.
@@ -448,7 +493,7 @@ The Elderly People Caring Platform is designed to support the aging population b
 ### Scop
 Journalists and content creators need a system to verify the accuracy of information before publishing. The system should check if the content is supported by the already validated data (Ground Truth).
 - To query a ground truth database (in order to retrieve information using natural language The result of the query can be actual relevant data stored in the GT or it can be generated content using data summarization or other techniques. 
-- To identify if a piece of information is supported by the GT The support detection process should allow for the system to automatically detect ground truth information which supports a certain piece of information 
+- To identify if a piece of information is supported by the GT The support detection process should allow for the system to automatically detect ground truth information which supports a certain piece of information [link](2024-2025\Projects\HCOE_Challenge_SimQuery.pdf)
 
 ### Ideea de baza
 Improve operational efficiency, fosters innovation, strengthens decision making and gives organization a powerful tool for gaining insights from its data 
@@ -475,7 +520,7 @@ Support  -definition- an information supports another information if there is a 
     <summary> <img style="vertical-align:middle"  src="images\tst.jpeg" alt="networks" width="100"/> TSQS (Text Style Query System) (Owner: dl. Lucian Munteanu)  </summary>
 
 ### Scop
-Personalized Learning Assistant - Students need to ask questions and receive answers in a style that matches their preferred learning method. Such a system should also analyze their writing style and provide feedback to improve their academic writing.
+Personalized Learning Assistant - Students need to ask questions and receive answers in a style that matches their preferred learning method. Such a system should also analyze their writing style and provide feedback to improve their academic writing. [link](2024-2025\Projects\HCOE_Challenge_TSQS.pdf)
 
 - To query a ground truth database (in order to retrieve information using natural language) The result of the query can be actual relevant data stored in the GT or it can be generated content using data summarization or other techniques. 
 - To identify and analyze the style of a piece of information by itself and comparing with GT style(s) The style detection process should allow for the system to automatically detect ground truth information which has similar style with the piece of information  
