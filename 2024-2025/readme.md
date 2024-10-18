@@ -50,4 +50,4 @@ Trebuie realizata o prezentare video (teaser) a muncii realizate de-a lungul sem
 **Criterii de evaluare**
 Detalii despre continutul evaluarii si termenele de predare intermediare se gasesc [aici](Eval/readme.md)
 
-Situatie punctaje - TBA
+Situatie punctaje - [link](https://ubbcluj.sharepoint.com/:x:/s/MIRPR-2024-2025/Eerx50Zr-l9IlNis0ShO6f0Bp-NmyZfmla6nqS0GfTSZpA?e=nR9dOR)
