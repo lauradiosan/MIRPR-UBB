@@ -2,12 +2,16 @@
 
 ## Materiale curs
 - Sapt 1: [Introducere](Lectures/00_intro.pdf)
-<!-- - Sapt 2: [ML review](Lectures/01_ML_reviewAlgo.pdf)
-- Sapt 3: [Image processing 1](Lectures/code/imgProcessingBasics.ipynb) 
-  > [Exercitii](Lectures/code/exercise02.md) - se vor rezolva pana la curs si se vor discuta in cadrul orelor de curs
-- Sapt 4: [Image processing 2](Lectures/code/imgProcessingAttributes.ipynb)
-Sapt 5-6: Deep learning [theoretical elements](Lectures/code/deepLearningWithExamples.ipynb) [examples](Lectures/code/annAndCnns.ipynb)
-- Sapt 6: Image classification [theoretical elements](Lectures/code/imgClassification.ipynb)
+- Sapt 2: [Image processing 1](Lectures/code/01_imgProcessingBasics.ipynb) 
+  - [Exercitii](Lectures/code/exercise02.md)
+- Sapt 3: [Image processing 2](Lectures/code/02_imgProcessingAttributes.ipynb)
+- Sapt 4: Image classification [theoretical elements](Lectures/code/03_imgClassification.ipynb), 
+    - reamintire: ANN [elemente teoretice](Lectures\04_ML_ANN.ppt), Deep learning [elemente teoretice](Lectures/code/04_deepLearningWithExamples.ipynb) [exemple](Lectures/code/annAndCnns.ipynb) 
+    - [arhitecturi Deep Learning](Lectures\code\05_imgClassification_DLarchitectures.ipynb)
+- Sapt 5: Object detection [elemente teoretice](Lectures\06_imgDetection.ppt)
+- Sapt 6: Image segmentation [elemente teoretice](Lectures\07_imgSegmentation.ppt)
+
+<!--
 - Sapt 7-8: Object detection [notes](Lectures/imgDetection.ppt) and [examples](Lectures/code/objDetectionExamples.ipynb)
 - Sapt 9: Autonomous driving - Cataling Golban (invitat)
 - Sapt 10: Image segmentation [notes](Lectures/imgSegmentation.ppt)
