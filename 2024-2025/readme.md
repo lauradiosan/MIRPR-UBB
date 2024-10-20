@@ -4,7 +4,7 @@
 - Sapt 1: [Introducere](Lectures/00_intro.pdf)
 - Sapt 2: [Image processing 1](Lectures/code/01_imgProcessingBasics.ipynb) 
   - [Exercitii](Lectures/code/exercise02.md)
-- Sapt 3: [Image processing 2](Lectures/code/02_imgProcessingAttributes.ipynb)
+- Sapt 3: [Image processing 2](Lectures/code/02_imgProcessingAttributes.ipynb) [Haar features examaples](Lectures/code/objDetectionExamples.ipynb)
 - Sapt 4: Image classification [theoretical elements](Lectures/code/03_imgClassification.ipynb), 
     - reamintire: ANN [elemente teoretice](Lectures\04_ML_ANN.ppt), Deep learning [elemente teoretice](Lectures/code/04_deepLearningWithExamples.ipynb) [exemple](Lectures/code/annAndCnns.ipynb) 
     - [arhitecturi Deep Learning](Lectures/code/05_imgClassification_DLarchitectures.ipynb)
