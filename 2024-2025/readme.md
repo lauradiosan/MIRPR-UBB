@@ -11,7 +11,7 @@
 - Sapt 5: Object detection [elemente teoretice](Lectures/06_imgDetection.ppt)
 - Sapt 6: Image segmentation [elemente teoretice](Lectures/07_imgSegmentation.ppt)
 - Sapt 7: Infrastructure - GPUs [EduML - MLops](Lectures/eduml-mlops.pdf) [FP - details](Lectures/flops.pdf)
-- Sapt 8: Vision Transformers [elemente teoretice](Lectures/08_ViT.pdf) [code flow](Lectures/code/myViTflow.ipynb) [code](Lectures/code/vit_tiny.ipynb)
+- Sapt 8: Vision Transformers [elemente teoretice](Lectures/08_ViT.pdf) [code flow](Lectures/code/08_myViTflow.ipynb) [code](Lectures/code/08_vit_tiny.ipynb)
 - Sapt 9: Stable Difussion 
 
 <!--
