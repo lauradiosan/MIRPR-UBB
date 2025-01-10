@@ -6,23 +6,17 @@
   - [Exercitii](Lectures/code/exercise02.md)
 - Sapt 3: [Image processing 2](Lectures/code/02_imgProcessingAttributes.ipynb) [Haar features examaples](Lectures/code/objDetectionExamples.ipynb)
 - Sapt 4: Image classification [theoretical elements](Lectures/code/03_imgClassification.ipynb), 
-    - reamintire: ANN [elemente teoretice](Lectures\04_ML_ANN.ppt), Deep learning [elemente teoretice](Lectures/code/04_deepLearningWithExamples.ipynb) [exemple](Lectures/code/annAndCnns.ipynb) 
+    - reamintire: ANN [elemente teoretice](Lectures\04_ML_ANN.pdf), Deep learning [elemente teoretice](Lectures/code/04_deepLearningWithExamples.ipynb) [exemple](Lectures/code/annAndCnns.ipynb) 
     - [arhitecturi Deep Learning](Lectures/code/05_imgClassification_DLarchitectures.ipynb)
-- Sapt 5: Object detection [elemente teoretice](Lectures/06_imgDetection.ppt)
-- Sapt 6: Image segmentation [elemente teoretice](Lectures/07_imgSegmentation.ppt)
+- Sapt 5: Object detection [elemente teoretice](Lectures/06_imgDetection.pdf)
+- Sapt 6: Image segmentation [elemente teoretice](Lectures/07_imgSegmentation.pdf)
 - Sapt 7: Infrastructure - GPUs [EduML - MLops](Lectures/eduml-mlops.pdf) [FP - details](Lectures/flops.pdf)
-- Sapt 8: Vision Transformers [elemente teoretice](Lectures/08_ViT.pdf) [code flow](Lectures/code/08_myViTflow.ipynb) [code](Lectures/code/08_vit_tiny.ipynb)
-- Sapt 9: Stable Difussion 
-
-<!--
-- Sapt 7-8: Object detection [notes](Lectures/imgDetection.ppt) and [examples](Lectures/code/objDetectionExamples.ipynb)
-- Sapt 9: Autonomous driving - Cataling Golban (invitat)
-- Sapt 10: Image segmentation [notes](Lectures/imgSegmentation.ppt)
-- Sapt 11: Text mining and Natural Language Processing [notes](Lectures/textMining.ppt)
-- Sapt 12: Affective computing [notes](Lectures/affectiveComputing.pptx)
-- Sapt 13: Graph Neural Networks [notes](Lectures/graphNNs.pptx)
+- Sapt 8-9: Vision Transformers [elemente teoretice](Lectures/08_ViT.pdf) [code flow](Lectures/code/08_myViTflow.ipynb) [code](Lectures/code/08_vit_tiny.ipynb)
+- Sapt 10: Stable Difussion [elemente teoretice](Lectures/09_StableDiffusion.pdf) 
+- Sapt 11-12: Text mining [elemente teoretice](Lectures/10_textMining_tokenizers.pdf) [code for varius tokenisers](Lectures/code/10_tokenizers.ipynb)
+- Sapt 13: Graph-based Neural Networks [elemente teoretice](Lectures/11_graphNNs.pdf)
   * nice to read: six degrees of separation/freedom [ref1](https://www.goodreads.com/book/show/818170.Six_Degrees) [ref2](http://materias.df.uba.ar/dnla2019c1/files/2019/03/watts-collective_dynamics-nature_1998.pdf) versus four degrees [ref](https://arxiv.org/pdf/1111.4570.pdf)
-  * nice to watch [Experimenter movie](https://www.imdb.com/title/tt3726704/) -->
+  * nice to watch [Experimenter movie](https://www.imdb.com/title/tt3726704/)
 
 ## Detalii proiecte
 
