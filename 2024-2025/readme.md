@@ -1,5 +1,15 @@
 # MIRPR-2024-2025
 
+Review al proiectelor realizate:
+- 🌟 AI Boost - Journey Into Innovation for Dentistry 🦷! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3aeoTIYyfMyHb0ltrqWJrgK)
+- 🌟 AI Boost - Journey Into Innovation in urban planning 🏙️ and climate change 🌱! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3ZE931_39GsHraVxTrheyZ9)
+- 🌟 AI Boost - Journey Into Innovation for Health! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3a_QfBpUk4RxPrE3u77QJxu)
+- 🌟 AI Boost - Journey Into Innovation for Image Generation and Stable Diffusion! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3apuWruiGNHSuOcDdp2oO3S)
+- 🌟 AI Boost - Journey Into Innovation for Health! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3byAoxU253eOPTJ_QTMB6-M)
+- 🌟 AI Boost - Journey Into Innovation for Influenza Assistance! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3Zob-qJRX2XPPHUkHaUDfN2)
+- 🌟 AI Boost - Journey Into Innovation for Next-Gen Learning and Contextual Search! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3bSSIuHXXGTULi2yW7lzYFE)
+- 🌟 AI Boost - Journey Into Innovation for Mental Health! 🌟 [link](https://www.youtube.com/playlist?list=PLWqoeian8g3bZAqk38sfukRa21la5OB_D)
+
 ## Materiale curs
 - Sapt 1: [Introducere](Lectures/00_intro.pdf)
 - Sapt 2: [Image processing 1](Lectures/code/01_imgProcessingBasics.ipynb) 
