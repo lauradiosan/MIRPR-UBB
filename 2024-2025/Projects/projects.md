@@ -502,9 +502,7 @@ Facilitate collaboration between different domains by highlighting how ideas in 
 
 Ground Truth represents a public data considered as being the correct and comprehensive representation of a certain reality 
 
-Piece of information is defined as a generic information ( with no definite size and no 
-
-definite content or ideas It can be a fragment of a page, a page, a document or a collection of documents 
+Piece of information is defined as a generic information ( with no definite size and no definite content or ideas It can be a fragment of a page, a page, a document or a collection of documents 
 
 Support  -definition- an information supports another information if there is a certain semantically similarity (topic similarity) and both information express the same idea(s) 
 <!-- ### TODOlist
