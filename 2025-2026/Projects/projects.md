@@ -4,7 +4,7 @@
 
 ## Project 1 
 <details>
-    <summary> Conversational Avatar Production
+    <summary> Conversational Avatar Production (owner: Alexandru Manole) 
     <img src="projects\avatar.webp" width="100">
     </summary>
 
@@ -37,7 +37,7 @@ Folosind tehnici de Machine Learning, acest proces poate fi automatizat, permiț
 
 ## Project 2
 <details>
-    <summary> Identificarea cancerului de san  
+    <summary> Identificarea cancerului de san  (owner: dl. dr. Andrei Roman) 
         <img src="projects\breastCancer.jpeg" width="100">
     </summary>
 
@@ -85,7 +85,7 @@ Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate
 ## Project 3
 
 <details>
-    <summary> Identificarea defectelor software <img src="projects\code.jpg" width="100"> </summary>
+    <summary> Identificarea defectelor software (owner: Laura Cernau) <img src="projects\code.jpg" width="100"> </summary>
 
 ### Identificarea defectelor software
 
@@ -180,7 +180,7 @@ LLM-based evaluation
 ## Project 5
 
 <details>
-    <summary> Identificarea cancerului de plaman  
+    <summary> Identificarea cancerului de plaman  (owner: dl. dr. Andrei Roman) 
     <img src="projects\lungCancer.jpeg" width="100">
     </summary>
 
@@ -226,7 +226,7 @@ Problema poate fi abordata ca o problema de clasificare multi-label.
 
 ## Project 6
 <details>
-    <summary> Voice to text  
+    <summary> Voice to text  (owner: dna. dr. Alina Baciu) 
     <img src="projects\voice.avif" width="150">
     </summary>
 
@@ -262,9 +262,9 @@ Se va pleca de la inregistrari audio precum [aceasta](Projects/voice2text/test1.
 
 </details>
 
-## Project 10 
+## Project 7
 <details>
-    <summary> 10. Estimarea dificultatii cazurilor de endodontie
+    <summary> Estimarea dificultatii cazurilor de endodontie (owner: dna. dr. Mihaela Hedesiu) 
     <img src="projects\endodontie.webp" width="100"> </summary>
 
 ### Identificarea dificultatii cazului de endodontie
@@ -289,7 +289,7 @@ Inteligența artificială promite automatizarea acestor evaluări. Studiul propu
 
 </details>
 
-## Project 11
+## Project 8
 
 
 <details>
@@ -327,7 +327,7 @@ Plecand de la o ecografie cardiaca (in format DICOM) se doreste identificarea ca
 
 
 
-## Project 12
+## Project 9
 
 <details>
     <summary> Medical dataset generation (owner: Mihai Nadas)  <img  style="vertical-align:middle" src="projects\medicalData.jpg" alt="networks" width="100"/></summary>
@@ -385,4 +385,155 @@ Nitu, M., & Dascălu, M. (2022). Natural Language Processing Tools for Romanian�
 
 
 </details>
+
+
+
+## Project 10
+
+<details>
+    <summary> <img style="vertical-align:middle" src="images\anxiety.jpeg" alt="networks" width="100"/> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools (Owner: Cristiana Bogateanu si Vlad Neste)  </summary>
+
+### Scop
+Anxiety/Depression for teenagers - To enhance mental health support for teenagers by developing digital tools that can proactively identify signs of anxiety and depression. These tools aim to engage with adolescents in their digital environments—whether through chatbots, social media, video games, or other innovative platforms—to provide early intervention and emotional support. 
+
+### Ideea de baza
+The Early Discovery of Anxiety/Depression in Teenagers solution leverages digital platforms to identify and monitor mental health challenges among adolescents. The system combines multiple approaches, including AI-powered chatbots capable of conversational analysis, sentiment evaluation through social media interactions, and mental health assessments embedded in video game experiences. By engaging teenagers where they spend most of their time—whether online or gaming—the system aims to provide real-time insights and early warnings of anxiety or depression. This integrated solution offers a holistic approach, blending digital engagement with predictive analytics and personalized intervention strategies. 
+
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+### Bibliografie
+
+- [link](https://arxiv.org/abs/2402.16182)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11025697/)
+- [link](https://home.dartmouth.edu/news/2024/02/phone-app-uses-ai-detect-depression-facial-cues)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9461333)
+- [link](https://chatgpt.com/g/g-IMV77BDMO-depression)
+- [link](https://www.sciencedirect.com/science/article/pii/S0001691824002877)
+- [link](https://www.mdpi.com/1999-4893/16/12/543)
+- DeepWell DTx - ideea of implementation ;) [link](https://www.deepwelldtx.com/)
+</details>
+
+## Project 11
+<details>
+    <summary> Predictive Mental Health Monitoring System  (Owner: Cristiana Bogateanu si Vlad Neste) <img style="vertical-align:middle" src="images\mentalHealth.jpeg" alt="networks" width="100"/></summary>
+
+### Scop
+Mental Health - To empower individuals and healthcare providers by offering a predictive mental health monitoring system that proactively identifies and mitigates the risk of suicidal actions through the continuous and intelligent analysis of health data collected from wearable devices.  
+
+### Ideea de baza
+The Predictive Mental Health Monitoring System is a cutting-edge solution designed to leverage the capabilities of wearable devices, such as those similar to the Oura Ring, to monitor key health indicators and provide real-time insights into an individual's mental health. By combining advanced machine learning algorithms, GenAI, and innovative data analytics, the system aims to predict and prevent suicidal actions, offering timely interventions and personalised support. 
+
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+### Bibliografie
+- [link](https://pubmed.ncbi.nlm.nih.gov/25398168/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/26875620/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/17805308/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/25628520/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/29386207/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/16033674/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/29240871/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/23685197/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/21658563/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/31236817/)
+- [link](https://pubmed.ncbi.nlm.nih.gov/29727550/)
+
+
+</details>
+
+## Project 12
+
+<details>
+    <summary>   <img style="vertical-align:middle" src="images\triage.jpeg" alt="networks" width="100"/> Digital Triage System (Owner: Cristiana Bogateanu si Vlad Neste) </summary>
+
+### Scop
+Digital Triage - To support individuals and healthcare providers by offering a smart system that helps identify the most appropriate healthcare professional based on an individual's symptoms, ensuring faster and more accurate access to the right medical care. 
+
+### Ideea de baza
+The Digital Triage System is designed to function as a companion that uses advanced AI-driven technologies to guide individuals through a series of questions regarding their symptoms and health concerns. By intelligently assessing the input, the system can accurately indicate potential conditions and recommend the appropriate type of healthcare provider, such as a specialist, general practitioner, or mental health professional. Leveraging machine learning algorithms and symptom databases, this solution optimizes the pathway to care, reducing diagnostic delays and improving health outcomes. 
+
+ 
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+### Bibliografie
+- [link](https://go.jamasoftware.com/the-rapid-rise-of-digital-health-technology.html?kw=digital%20technology%20in%20healthcare&cpn=11827675850&utm_source=google&utm_medium=cpc&utm_campaign=emea-search-medical-nonb&utm_adgroup=digital-health&utm_term=digital%20technology%20in%20healthcare&utm_content=582244983547&_bm=11827675850136122053649&gad_source=1&gclid=EAIaIQobChMIvNCu-u7piAMV0aqDBx0RsCSsEAAYAiAAEgIH1fD_BwE)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794085/)
+- [link](https://infermedica.com/solutions/triage)
+- [link](https://transform.england.nhs.uk/key-tools-and-info/digital-playbooks/gastroenterology-digital-playbook/using-intelligent-automation-to-improve-the-triage-and-referral-management-pathway/)
+- [link](https://www.sciencedirect.com/science/article/abs/pii/S0738399123004573)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11158416/)
+- [link](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1297073/full)
+- [link](https://xby2.com/case-studies/next-gen-ai-powered-emergency-triage/)
+- [link](https://aws.amazon.com/ai/generative-ai/?gclid=EAIaIQobChMI7eOCjO_piAMVtpCDBx21lxHOEAAYASAAEgL_f_D_BwE&trk=718bb85a-f217-4294-bf55-ee86400cb863&sc_channel=ps&ef_id=EAIaIQobChMI7eOCjO_piAMVtpCDBx21lxHOEAAYASAAEgL_f_D_BwE:G:s&s_kwcid=AL!4422!3!686079230781!p!!g!!generative%20ai%20applications!20901655430!157427215859)
+- [link](https://www.youtube.com/watch?v=S1E8jQofS_Y)
+- [link](https://www.youtube.com/watch?v=yaTg9bNUeE8)
+- [link](https://www.youtube.com/watch?v=c9hThlZNU0o)
+- [link](https://www.clearstep.health/blog/generative-ai-in-healthcare-safely-harness-its-power-with-clinically-validated-virtual-triage)
+- [link](https://medium.com/columbia-journal-of-science-tech-ethics-and-policy/harnessing-the-power-of-ai-in-emergency-triage-a-paradigm-shift-0af7786948bd_
+- [link](https://618media.com/en/blog/claude-ai-in-healthcare-applications/)
+- [link](https://www.sciencedirect.com/science/article/pii/S2589750024000979)
+
+</details>
+
+## Project 13
+<details>
+    <summary> Support in the drug development (Owner: Cristiana Bogateanu si Vlad Neste) <img  style="vertical-align:middle" src="images\drugs.jpeg" alt="networks" width="100"/></summary>
+
+### Scop
+Predict the Actions of Substances on the Human Body - To develop a high-fidelity system capable of accurately predicting the actions and reactions of substances within the human body, starting with their interactions with proteins, ultimately advancing drug discovery and personalized medicine. 
+
+### Ideea de baza
+The Predict the Actions of Substances system aims to use computational biology and machine learning to model and predict the behavior of various substances at the molecular level. By focusing initially on how these substances interact with proteins, the system will provide insights into potential therapeutic or harmful effects, facilitating early-stage drug discovery and safety testing. Leveraging vast datasets of molecular structures and biological reactions, the solution will deliver predictive simulations and data analytics, helping researchers and healthcare providers understand substance-protein interactions before human trials or clinical use. 
+
+ 
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+### Bibliografie
+
+- [link](https://www.gc.cuny.edu/news/new-ai-model-can-accurately-predict-human-response-novel-drug-compounds)
+- [link](https://theconversation.com/ai-system-can-predict-the-structures-of-lifes-molecules-with-stunning-accuracy-helping-to-solve-one-of-biologys-biggest-problems-229745)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143484/)
+- [link](https://www.nature.com/articles/s42256-022-00541-0)
+- [link](https://www.researchgate.net/figure/Overview-of-CODE-AE-a-Rationale-of-CODE-AE-Mechanistically-drug-response-biomarkers_fig1_364350188)
+- [link](https://www.researchgate.net/publication/348958834_CODE-AE_A_Coherent_De-confounding_Autoencoder_for_Predicting_Patient-Specific_Drug_Response_From_Cell_Line_Transcriptomics)
+- [link](https://deepmind.google/technologies/alphafold/)
+- [link](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+- [link](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
+
+</details>
+
+## Project 14
+<details>
+    <summary> <img  style="vertical-align:middle" src="images\elderly.jpeg" alt="networks" width="100"/> Elderly People Caring Platform (Owner: Cristiana Bogateanu si Vlad Neste)  </summary>
+
+### Scop
+Elderly People Support - To provide a comprehensive and user-friendly platform that integrates data from various health conditions affecting the elderly, offering personalized recommendations, health status insights, and gamified elements to encourage healthy behaviors and proactive care. 
+
+### Ideea de baza
+The Elderly People Caring Platform is designed to support the aging population by consolidating data from multiple health conditions, such as cardiovascular disease, diabetes, and cognitive decline. The platform uses this data to provide actionable health recommendations and guidance on the appropriate healthcare pathways. Additionally, the system offers real-time insights into the user’s health status, making it easier to track changes and improvements over time. By incorporating gamification elements, such as health challenges, milestones, and rewards, the platform aims to engage elderly users in maintaining and improving their health in an enjoyable and motivating way. 
+ 
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+### Bibliografie
+- [link](https://healthtechmagazine.net/article/2024/04/embracing-generative-ai-and-large-language-models-senior-care)
+- [link](https://www.linkedin.com/pulse/harnessing-generative-ai-revolutionize-senior-care-future-skaria-vfckc/)
+- [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10534283/)
+- [link](https://celiatecuida.com/en/home_en/) - GOOOD EXAMPLE
+- [link](https://www.matellio.com/blog/ai-companion-for-elderly/)
+- [link](https://www.ageinplacetech.com/blog/five-examples-use-ai-care-older-adults)
+- [link](https://witlingo.com/gen-ai-senior-living/)
+- [link](https://automationedge.com/blogs/generative-ai-in-home-care/)
+
+</details>
+
 
