@@ -136,14 +136,14 @@ Output asteptat: defectele software identificate in codul sursa (daca clasa cont
 ## Project 4
 
 <details>
-    <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB
+    <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB (Marius Florian Tudose, Banca Transilvania)
 <img src="projects/RAG.png" width="120"> </summary>
 
 ### Sistem automat pentru helpdesk bazat pe LLM
 
 #### Scop
 Dezvoltarea unui sistem inteligent care să poată să răspundă la întrebări folosind un LLM și o colecție de documente. 
-Se doreste "specializarea" sistemului pentru intrebari din lumea informaticii.  
+Se doreste "specializarea" sistemului pentru intrebari din lumea informaticii/financiara.  
 
 #### Ideea de baza
 
@@ -537,3 +537,36 @@ Soluția propusă valorifică avantajele TinyVLM – dimensiune redusă, eficien
 </details>
 
 
+## Project 14
+<details>
+    <summary> <img  style="vertical-align:middle" src="images\smartWatch.png" alt="networks" width="100"/> Monitorizarea stării de sănătate cu ajutorul SmartWatch (Owner: Zoltan Balint)  </summary>
+
+### Scop
+
+Brățările de fitness și ceasurile inteligente purtate la încheietură, bazate pe accelerometru, au apărut pe piața de consum în 2011. De atunci, au fost lansate numeroase dispozitive purtabile. Pe lângă utilizarea lor pentru monitorizarea activității fizice personale, aceste dispozitive sunt tot mai des folosite în cercetare pentru colectarea de date de sănătate. Sunt concepute pentru utilizare pe termen lung, ceea ce permite înregistrarea continuă cu un efort minim din partea participanților. Proiectul urmărește explorarea potențialului datelor colectate de ceasuri inteligente și dispozitive purtabile în domeniul sănătății, prin aplicarea tehnicilor de Business Intelligence (BI).
+
+### Ideea de baza
+Proiectul urmărește utilizarea tehnicilor de Business Intelligence (BI) pentru analiza datelor colectate de dispozitive purtabile (ex. ceasuri inteligente). Scopul este extragerea de informații relevante pentru sănătatea utilizatorului, precum nivelul de activitate fizică, calitatea somnului, ritmul cardiac și localizarea, și transformarea acestora în insight-uri utile pentru intervenții personalizate.
+ 
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+
+- [link](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06146-5
+https://www.researchgate.net/publication/378021834_Analysis_of_Fitness_Based_on_Smart_Watch_Data)
+
+- [link](https://ceur-ws.org/Vol-3514/paper73.pdf)
+
+
+### Bibliografie
+
+Mogra, A., Pandey, P. K., & Panwar, R. S. (2024, December). Artificial Intelligence Enabled Sleep Health Dashboards: Power BI Integration for Data-Driven Lifestyle Modifications. In 2024 Eighth International Conference on Parallel, Distributed and Grid Computing (PDGC) (pp. 535-539). IEEE [link](https://ieeexplore.ieee.org/abstract/document/10984363)
+
+Reddy, N. C. N., Ramesh, A., Rajasekaran, R., & Masih, J. (2020, May). Ritchie’s Smart Watch Data Analytics and Visualization. In International Conference on Image Processing and Capsule Networks (pp. 776-784). Cham: Springer International Publishing.[link](https://d1wqtxts1xzle7.cloudfront.net/96645011/978-3-030-51859-2_70-libre.pdf?1672579590=&response-content-disposition=inline%3B+filename%3DRitchie_s_Smart_Watch_Data_Analytics_and.pdf&Expires=1759213247&Signature=QSkC1ZZ1hezkhPx2bnqrWfikyhAPRw8R83lYHOrsKW2GA4nfVd~kOZ-RvFPbNCPPnK9x6b66MnJYvnR1VElnEt~Nn8dsjHjiR4WpKMJ8KhfpSqKeoPoEmTSPtTo57lcLSAyLr7XL0tbdk5YpxUrrK6GcHpG7YTfUrOu9Xh2lxi~-V1DOXFkhtHqw9wtWGoniLusVXsLuGaGdQibTMUCEUmV5Cw-fISVvv170AiNH-Lb5z4yZqaunHabVBOBWQ~dhzedn~7G7PPQEdWcIBSXf~uxQDpCfXlzRQ1F-Xh2dBDZFyOru9AxMKgElC6a6f5jMIn6YLQwPTpZBiSgW~YZYEQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+Bhavsar, K., Singhal, S., Chandel, V., Samal, A., Khandelwal, S., Ahmed, N., & Ghose, A. (2021, March). Digital biomarkers: Using smartwatch data for clinically relevant outcomes. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 630-635). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9431000)
+
+Del-Valle-Soto, C., Briseño, R. A., Valdivia, L. J., & Nolazco-Flores, J. A. (2024). Unveiling wearables: exploring the global landscape of biometric applications and vital signs and behavioral impact. BioData Mining, 17(1), 15. [link](https://link.springer.com/content/pdf/10.1186/s13040-024-00368-y.pdf)
+
+</details>
