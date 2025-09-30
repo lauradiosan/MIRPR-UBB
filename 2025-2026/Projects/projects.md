@@ -436,7 +436,7 @@ Nitu, M., & Dascălu, M. (2022). Natural Language Processing Tools for Romanian�
 ## Project 11
 
 <details>
-    <summary> <img style="vertical-align:middle" src="images\anxiety.jpeg" alt="networks" width="100"/> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools (Owner: Cristiana Bogateanu si Vlad Neste)  </summary>
+    <summary> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools (Owner: Cristiana Bogateanu si Vlad Neste)  <img style="vertical-align:middle" src="images\anxiety.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 Anxiety/Depression for teenagers - To enhance mental health support for teenagers by developing digital tools that can proactively identify signs of anxiety and depression. These tools aim to engage with adolescents in their digital environments—whether through chatbots, social media, video games, or other innovative platforms—to provide early intervention and emotional support. 
@@ -464,7 +464,7 @@ The Early Discovery of Anxiety/Depression in Teenagers solution leverages digita
 ## Project 12
 
 <details>
-    <summary>   <img style="vertical-align:middle" src="images\triage.jpeg" alt="networks" width="100"/> Digital Triage System (Owner: Cristiana Bogateanu si Vlad Neste) </summary>
+    <summary>   Digital Triage System (Owner: Cristiana Bogateanu si Vlad Neste) <img style="vertical-align:middle" src="images\triage.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 Digital Triage - To support individuals and healthcare providers by offering a smart system that helps identify the most appropriate healthcare professional based on an individual's symptoms, ensuring faster and more accurate access to the right medical care. 
@@ -502,7 +502,7 @@ The Digital Triage System is designed to function as a companion that uses advan
 
 ## Project 13
 <details>
-    <summary> <img  style="vertical-align:middle" src="images\elderly.jpeg" alt="networks" width="100"/> Real-Time Scene-Aware Assistant for Blind People using TinyVLM  (Owner: Ionut Breaban)  </summary>
+    <summary>  Real-Time Scene-Aware Assistant for Blind People using TinyVLM  (Owner: Ionut Breaban)  <img  style="vertical-align:middle" src="images\elderly.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 
@@ -539,7 +539,7 @@ Soluția propusă valorifică avantajele TinyVLM – dimensiune redusă, eficien
 
 ## Project 14
 <details>
-    <summary> <img  style="vertical-align:middle" src="images\smartWatch.png" alt="networks" width="100"/> Monitorizarea stării de sănătate cu ajutorul SmartWatch (Owner: Zoltan Balint)  </summary>
+    <summary>  Monitorizarea stării de sănătate cu ajutorul SmartWatch (Owner: Zoltan Balint) <img  style="vertical-align:middle" src="images\smartWatch.png" alt="networks" width="100"/> </summary>
 
 ### Scop
 
