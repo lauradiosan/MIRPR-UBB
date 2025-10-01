@@ -35,54 +35,8 @@ Folosind tehnici de Machine Learning, acest proces poate fi automatizat, permiț
 </details>
 
 
+
 ## Project 2
-<details>
-    <summary> Identificarea cancerului de san  (owner: dl. dr. Andrei Roman) 
-        <img src="projects\breastCancer.jpeg" width="100">
-    </summary>
-
-### Identificarea cancerului de san
-
-#### Scop
-Dezvoltarea unui sistem inteligent care să ajute medicii în diagnosticarea timpurie a cancerului de san.
-
-#### Ideea de baza
-Detectarea cancerului de sân în mamografii este o problemă critică în imagistica medicală și diagnostic. Interpretarea mamografiilor este provocatoare din cauza variațiilor în densitatea țesuturilor, a structurilor suprapuse și a diferențelor subtile dintre tumorile benigne și maligne. 
-Această problemă trebuie rezolvată folosind un algoritm inteligent, deoarece examinarea manuală tradițională de către radiologi este consumatoare de timp și predispusă la erori umane. 
-
-Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate pe arhitecturi de tip Transformer/GNN pentru a identifica tumori maligne si benigne in imagini. Modelele folosite pot fi pre-antrenate pe alte seturi de date si fine-tunate pe setul de date cu mamografii.
-
-
-#### Data
-- MIAS [link](http://peipa.essex.ac.uk/info/mias.html)
-- DDSM [link](http://www.eng.usf.edu/cvprg/Mammography/Database.html) or [link](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
-- INbreast  [link](https://www.kaggle.com/datasets/tommyngx/inbreast2012)
-- DBT - [link](https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/)
-
-#### Bibliografie
-
-- Graph CNNs 
-    - PyG [link](https://github.com/pyg-team/pytorch_geometric) 
-    - Graph Learning resources [link](https://snap.stanford.edu/graphlearning-workshop/)
-    - GNNs for breast cancer - Chowa, S. S., Azam, S., Montaha, S., Payel, I. J., Bhuiyan, M. R. I., Hasan, M. Z., & Jonkman, M. (2023). Graph neural network-based breast cancer diagnosis using ultrasound images with optimized graph construction integrating the medically significant features. Journal of Cancer Research and Clinical Oncology, 149(20), 18039-18064. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10725367/)
-    - GNNs for breast cancer -  Agyekum, E. A., Kong, W., Ren, Y. Z., Issaka, E., Baffoe, J., Xian, W., ... & Shen, X. (2025). A comparative analysis of three graph neural network models for predicting axillary lymph node metastasis in early-stage breast cancer. Scientific Reports, 15(1), 13918. [link](https://www.nature.com/articles/s41598-025-97257-z)
-- Transformers
-    - Vit - Dosovitskiy, A. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929.
-        [link](https://arxiv.org/pdf/2010.11929)
-        - Code [link](https://github.com/google-research/vision_transformer) or HuggingFace models [link](https://huggingface.co/docs/transformers/en/model_doc/vit)
-    - CrossViT - Chen, C. F. R., Fan, Q., & Panda, R. (2021). Crossvit: Cross-attention multi-scale vision transformer for image classification. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 357-366). [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_CrossViT_Cross-Attention_Multi-Scale_Vision_Transformer_for_Image_Classification_ICCV_2021_paper.pdf)
-        - Code [link](https://github.com/IBM/CrossViT)
-    - DeiT - Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., & Jégou, H. (2020). Training data-efficient image transformers & distillation through attention. arXiv 2020. arXiv preprint arXiv:2012.12877, 2(3). \href{https://arxiv.org/abs/2012.12877v2}{link}
-        - Code [link](https://github.com/facebookresearch/deit/tree/2aefd8fc8634d099c1495ce9dba2b6c6a921d611)
-    - MammoViT - Al Mansour, A. G., Alshomrani, F., Alfahaid, A., & Almutairi, A. T. (2025). MammoViT: A Custom Vision Transformer Architecture for Accurate BIRADS Classification in Mammogram Analysis. Diagnostics, 15(3), 285 [link](https://www.mdpi.com/2075-4418/15/3/285)
-    - Gutierrez-Cardenas, J. (2024). Breast Cancer Classification Through Transfer Learning with Vision Transformer, PCA, and Machine Learning Models. International Journal of Advanced Computer Science & Applications, 15(4). [link](https://www.proquest.com/docview/3060148581?fromopenview=true&pq-origsite=gscholar&sourcetype=Scholarly%20Journals)
-
-</details>
-
-
-
-
-## Project 3
 
 <details>
     <summary> Identificarea defectelor software (owner: Laura Cernau) <img src="projects\code.jpg" width="100"> </summary>
@@ -133,7 +87,7 @@ Output asteptat: defectele software identificate in codul sursa (daca clasa cont
 
 
 
-## Project 4
+## Project 3
 
 <details>
     <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB (Marius Florian Tudose, Banca Transilvania)
@@ -177,7 +131,7 @@ LLM-based evaluation
 
 </details>
 
-## Project 5
+## Project 4
 
 <details>
     <summary> Identificarea cancerului de plaman  (owner: dl. dr. Andrei Roman) 
@@ -223,6 +177,53 @@ Problema poate fi abordata ca o problema de clasificare multi-label.
 
 
 </details>
+
+## Project 5
+<details>
+    <summary> Identificarea cancerului de san  (owner: dl. dr. Andrei Roman, dr. Cristiana Moroz-Dubenco) 
+        <img src="projects\breastCancer.jpeg" width="100">
+    </summary>
+
+### Identificarea cancerului de san
+
+#### Scop
+Dezvoltarea unui sistem inteligent care să ajute medicii în diagnosticarea timpurie a cancerului de san.
+
+#### Ideea de baza
+Detectarea cancerului de sân în mamografii este o problemă critică în imagistica medicală și diagnostic. Interpretarea mamografiilor este provocatoare din cauza variațiilor în densitatea țesuturilor, a structurilor suprapuse și a diferențelor subtile dintre tumorile benigne și maligne. 
+Această problemă trebuie rezolvată folosind un algoritm inteligent, deoarece examinarea manuală tradițională de către radiologi este consumatoare de timp și predispusă la erori umane. 
+
+Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate pe arhitecturi de tip Transformer/GNN pentru a identifica tumori maligne si benigne in imagini. Modelele folosite pot fi pre-antrenate pe alte seturi de date si fine-tunate pe setul de date cu mamografii.
+
+
+#### Data
+- MIAS [link](http://peipa.essex.ac.uk/info/mias.html)
+- DDSM [link](http://www.eng.usf.edu/cvprg/Mammography/Database.html) or [link](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
+- INbreast  [link](https://www.kaggle.com/datasets/tommyngx/inbreast2012)
+- DBT - [link](https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/)
+
+#### Bibliografie
+
+- Graph CNNs 
+    - PyG [link](https://github.com/pyg-team/pytorch_geometric) 
+    - Graph Learning resources [link](https://snap.stanford.edu/graphlearning-workshop/)
+    - GNNs for breast cancer - Chowa, S. S., Azam, S., Montaha, S., Payel, I. J., Bhuiyan, M. R. I., Hasan, M. Z., & Jonkman, M. (2023). Graph neural network-based breast cancer diagnosis using ultrasound images with optimized graph construction integrating the medically significant features. Journal of Cancer Research and Clinical Oncology, 149(20), 18039-18064. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10725367/)
+    - GNNs for breast cancer -  Agyekum, E. A., Kong, W., Ren, Y. Z., Issaka, E., Baffoe, J., Xian, W., ... & Shen, X. (2025). A comparative analysis of three graph neural network models for predicting axillary lymph node metastasis in early-stage breast cancer. Scientific Reports, 15(1), 13918. [link](https://www.nature.com/articles/s41598-025-97257-z)
+- Transformers
+    - Vit - Dosovitskiy, A. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929.
+        [link](https://arxiv.org/pdf/2010.11929)
+        - Code [link](https://github.com/google-research/vision_transformer) or HuggingFace models [link](https://huggingface.co/docs/transformers/en/model_doc/vit)
+    - CrossViT - Chen, C. F. R., Fan, Q., & Panda, R. (2021). Crossvit: Cross-attention multi-scale vision transformer for image classification. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 357-366). [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_CrossViT_Cross-Attention_Multi-Scale_Vision_Transformer_for_Image_Classification_ICCV_2021_paper.pdf)
+        - Code [link](https://github.com/IBM/CrossViT)
+    - DeiT - Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., & Jégou, H. (2020). Training data-efficient image transformers & distillation through attention. arXiv 2020. arXiv preprint arXiv:2012.12877, 2(3). \href{https://arxiv.org/abs/2012.12877v2}{link}
+        - Code [link](https://github.com/facebookresearch/deit/tree/2aefd8fc8634d099c1495ce9dba2b6c6a921d611)
+    - MammoViT - Al Mansour, A. G., Alshomrani, F., Alfahaid, A., & Almutairi, A. T. (2025). MammoViT: A Custom Vision Transformer Architecture for Accurate BIRADS Classification in Mammogram Analysis. Diagnostics, 15(3), 285 [link](https://www.mdpi.com/2075-4418/15/3/285)
+    - Gutierrez-Cardenas, J. (2024). Breast Cancer Classification Through Transfer Learning with Vision Transformer, PCA, and Machine Learning Models. International Journal of Advanced Computer Science & Applications, 15(4). [link](https://www.proquest.com/docview/3060148581?fromopenview=true&pq-origsite=gscholar&sourcetype=Scholarly%20Journals)
+
+</details>
+
+
+
 
 ## Project 6
 <details>
