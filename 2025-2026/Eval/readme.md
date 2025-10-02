@@ -7,7 +7,7 @@
 | 2 | algoritm inteligent + small data | 5 | descriere algoritm inteligent, descriere metodologie experimentala si rezultate obtinute	| 5 | Lab3 |	
 | 3| algoritm inteligent + real data / benchmark data | 5 | descriere metodologie experimentala, rezultate obtinute, comparare cu SOTA	| 5 | Lab4 |	
 | 4 | imbunatatirea algoritmului inteligent   | 10 | descrierea imbunatatirilor (metodologie si rezultate, analize comparative) | 10 | Lab 5 |
-| 5 | integrare model inteligent in aplicatie (5p); <br/> noi imbunatatiri (...);<br/> teaser video de prezentare a proiectului (5p) | 10 |  descrierea si analiza (statistica a) rezultatelor obtinute (5p);  <br/> suport prezentare / slides - draft (5p)| 10 | Lab 6 |
+| 5 | integrare model inteligent in aplicatie (5p); <br/> noi imbunatatiri (10p);<br/> teaser video de prezentare a proiectului (5p) | 20 |  descrierea si analiza (statistica a) rezultatelor obtinute (10p);  <br/> suport prezentare / slides - draft (10p)| 20 | Lab 6 |
 | 6 | demo cu client(i) = pitch + demo app | 10 | analiza SWOT a proiectului realizat si concluzii; <br/> suport prezentare / slides - versiune finala | 10 | Lab7 |
 
 Bonus: Concursuri sau articole stiintifice sau interventii notabile de-a lungul activitatii.
@@ -89,11 +89,13 @@ si se va alege cel mai bun model pentru a fi integrat in aplicatie la pasul 5
     - ce hiperparametri s-au folosit, 
     - ce rezultate s-au obtinut (metrici + cateva exemple corect/gresit prezise)
     - comparatie cu rezultatele obtinute la pasul 3
+- Nota: o parte din imbunatatiri pot fi incluse si in etapa 5.
 </details>
 
 <details>
     <summary>5. Integrare model inteligent in aplicatie </summary>
 
+- se vor realiza si documenta imbunatatiri / optimziari ale modelelor de AI
 - se va integra si testa cel mai bun model obtinut la pasul 4 in aplicatia dezvoltata la pasul 1 / aplicatia dezvoltata de colegii de la PPI 
 - se va realiza un video scurt (1-2 minute) care sa prezinte pe scurt problema rezolvata, solutia propusa, si rezultatele obtinute; se va pune accent pe partea vizuala, astfel incat sa fie atractiv pentru potentiali utilizatori sau clienti
 - se vor documenta si analiza noile rezultate obtinute (imbunatatiri)
