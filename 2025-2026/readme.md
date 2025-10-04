@@ -9,7 +9,7 @@ Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o pr
 
 Proiectul implică:
 - alegerea unei teme - temele sunt prezentate [aici](Projects/projects.md); o tema poate fi aleasa de maxim 3 echipe
-- formarea unei echipe cu N membri (N poate fi 2 sau 3)
+- formarea unei echipe cu N membri (N poate fi 2 sau 3) care au ales optionalul MIRPR
 - rezolvarea problemei (de invatare sau optimizare) prin N metode inteligente diferite şi analizarea rezultatelor obţinute.
 - integrarea algoritmilor inteligenti intr-o aplicatie
 - redactarea documentatiei (raportului)

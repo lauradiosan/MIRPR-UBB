@@ -4,7 +4,7 @@
 
 ## Project 1 
 <details>
-    <summary> Conversational Avatar Production (owner: Alexandru Manole) 
+    <summary> Conversational Avatar Production (owner: Alexandru Manole, alexandru.manole@ubbcluj.ro) 
     <img src="projects\avatar.webp" width="100">
     </summary>
 
@@ -39,7 +39,7 @@ Folosind tehnici de Machine Learning, acest proces poate fi automatizat, permiț
 ## Project 2
 
 <details>
-    <summary> Identificarea defectelor software (owner: Laura Cernau) <img src="projects\code.jpg" width="100"> </summary>
+    <summary> Identificarea defectelor software (owner: Laura Cernau, laura.cernau@ubbcluj.ro) <img src="projects\code.jpg" width="100"> </summary>
 
 ### Identificarea defectelor software
 
@@ -90,7 +90,7 @@ Output asteptat: defectele software identificate in codul sursa (daca clasa cont
 ## Project 3
 
 <details>
-    <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB (Marius Florian Tudose, Banca Transilvania)
+    <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB (Marius Florian Tudose, Banca Transilvania, marius2.tudose@btrl.ro)
 <img src="projects/RAG.png" width="120"> </summary>
 
 ### Sistem automat pentru helpdesk bazat pe LLM
@@ -134,7 +134,7 @@ LLM-based evaluation
 ## Project 4
 
 <details>
-    <summary> Identificarea cancerului de plaman  (owner: dl. dr. Andrei Roman) 
+    <summary> Identificarea cancerului de plaman  (owner: dl. dr. Andrei Roman, Nicolas Musat, nicolasmusat12@hotmail.com) 
     <img src="projects\lungCancer.jpeg" width="100">
     </summary>
 
@@ -180,7 +180,7 @@ Problema poate fi abordata ca o problema de clasificare multi-label.
 
 ## Project 5
 <details>
-    <summary> Identificarea cancerului de san  (owner: dl. dr. Andrei Roman, dr. Cristiana Moroz-Dubenco) 
+    <summary> Identificarea cancerului de san  (owner: dl. dr. Andrei Roman, dr. Cristiana Moroz-Dubenco, cristiana.moroz@ubbcluj.ro) 
         <img src="projects\breastCancer.jpeg" width="100">
     </summary>
 
@@ -265,7 +265,7 @@ Se va pleca de la inregistrari audio precum [aceasta](Projects/voice2text/test1.
 
 ## Project 7
 <details>
-    <summary> Estimarea dificultatii cazurilor de endodontie (owner: dna. dr. Mihaela Hedesiu) 
+    <summary> Estimarea dificultatii cazurilor stomatologice (owner: dna. dr. Mihaela Hedesiu) 
     <img src="projects\endodontie.webp" width="100"> </summary>
 
 ### Identificarea dificultatii cazului de endodontie
@@ -294,7 +294,7 @@ Inteligența artificială promite automatizarea acestor evaluări. Studiul propu
 
 
 <details>
-    <summary> Causality identification (owner: dl. dr. Dan Blendea)  <img  style="vertical-align:middle" src="projects\causality.jpeg" alt="networks" width="100"/></summary>
+    <summary> Causality identification (owner: dl. dr. Dan Blendea, dblendea1@gmail.com)  <img  style="vertical-align:middle" src="projects\causality.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
 Identificarea cauzelor insuficientei mitrale [link](2024-2025\Projects\variabilitate.pdf)
@@ -331,7 +331,7 @@ Plecand de la o ecografie cardiaca (in format DICOM) se doreste identificarea ca
 ## Project 9
 
 <details>
-    <summary> Medical dataset generation (owner: Mihai Nadas)  <img  style="vertical-align:middle" src="projects\medicalData.jpg" alt="networks" width="100"/></summary>
+    <summary> Medical dataset generation (owner: Mihai Nadas, mihai.nadas@ubbcluj.ro)  <img  style="vertical-align:middle" src="projects\medicalData.jpg" alt="networks" width="100"/></summary>
 
 ### Scop
 Dezvoltarea unui corpus medical în limba română 
@@ -392,7 +392,7 @@ OpenLLM-Ro [link](https://openllm.ro/)
 ## Project 10
 
 <details>
-    <summary> Legal dataset generation (owner: Mihai Nadas)  <img  style="vertical-align:middle" src="projects\medicalData.jpg" alt="networks" width="100"/></summary>
+    <summary> Legal dataset generation (owner: Mihai Nadas, mihai.nadas@ubbcluj.ro)  <img  style="vertical-align:middle" src="projects\medicalData.jpg" alt="networks" width="100"/></summary>
 
 ### Scop
 Dezvoltarea unui corpus de documente juridice 
@@ -437,7 +437,7 @@ Nitu, M., & Dascălu, M. (2022). Natural Language Processing Tools for Romanian�
 ## Project 11
 
 <details>
-    <summary> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools (Owner: Cristiana Bogateanu si Vlad Neste)  <img style="vertical-align:middle" src="images\anxiety.jpeg" alt="networks" width="100"/> </summary>
+    <summary> Early Discovery of Anxiety/Depression in Teenagers Using Digital Tools (Owner: Cristiana Bogateanu, cristiana.bogateanu@nagarro.com)  <img style="vertical-align:middle" src="images\anxiety.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 Anxiety/Depression for teenagers - To enhance mental health support for teenagers by developing digital tools that can proactively identify signs of anxiety and depression. These tools aim to engage with adolescents in their digital environments—whether through chatbots, social media, video games, or other innovative platforms—to provide early intervention and emotional support. 
@@ -465,7 +465,7 @@ The Early Discovery of Anxiety/Depression in Teenagers solution leverages digita
 ## Project 12
 
 <details>
-    <summary>   Digital Triage System (Owner: Cristiana Bogateanu si Vlad Neste) <img style="vertical-align:middle" src="images\triage.jpeg" alt="networks" width="100"/> </summary>
+    <summary>   Digital Triage System (Owner: Cristiana Bogateanu, cristiana.bogateanu@nagarro.com) <img style="vertical-align:middle" src="images\triage.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 Digital Triage - To support individuals and healthcare providers by offering a smart system that helps identify the most appropriate healthcare professional based on an individual's symptoms, ensuring faster and more accurate access to the right medical care. 
@@ -503,7 +503,7 @@ The Digital Triage System is designed to function as a companion that uses advan
 
 ## Project 13
 <details>
-    <summary>  Real-Time Scene-Aware Assistant for Blind People using TinyVLM  (Owner: Ionut Breaban)  <img  style="vertical-align:middle" src="images\elderly.jpeg" alt="networks" width="100"/> </summary>
+    <summary>  Real-Time Scene-Aware Assistant for Blind People using TinyVLM  (Owner: Mohamed Hassan, Bosch, Hassan.Mohamed@ro.bosch.com)  <img  style="vertical-align:middle" src="images\elderly.jpeg" alt="networks" width="100"/> </summary>
 
 ### Scop
 
@@ -540,7 +540,7 @@ Soluția propusă valorifică avantajele TinyVLM – dimensiune redusă, eficien
 
 ## Project 14
 <details>
-    <summary>  Monitorizarea stării de sănătate cu ajutorul SmartWatch (Owner: Zoltan Balint) <img  style="vertical-align:middle" src="images\smartWatch.png" alt="networks" width="100"/> </summary>
+    <summary>  Monitorizarea stării de sănătate cu ajutorul SmartWatch (Owner: Zoltan Balint, zoltan.balint@ubbcluj.ro) <img  style="vertical-align:middle" src="images\smartWatch.png" alt="networks" width="100"/> </summary>
 
 ### Scop
 
