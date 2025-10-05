@@ -297,7 +297,8 @@ Inteligența artificială promite automatizarea acestor evaluări. Studiul propu
     <summary> Causality identification (owner: dl. dr. Dan Blendea, dblendea1@gmail.com)  <img  style="vertical-align:middle" src="projects\causality.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
-Identificarea cauzelor insuficientei mitrale [link](2024-2025\Projects\variabilitate.pdf)
+Identificarea cauzelor insuficientei mitrale [link](../../2024-2025/Projects/variabilitate.pdf)
+
 
 ### Ideea de baza
 
@@ -312,7 +313,7 @@ Plecand de la o ecografie cardiaca (in format DICOM) se doreste identificarea ca
 
 
 ### Data
-- tiny dataset [link](2025-2026\Projects\pacienti.xlsx)
+- tiny dataset [link](../../2025-2026/Projects/pacienti.xlsx)
 
 
 ### Bibliografie
