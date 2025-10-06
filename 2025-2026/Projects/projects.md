@@ -239,14 +239,14 @@ Dezvoltarea unui sistem inteligent care să ajute medicii pentru a completa in m
 #### Ideea de baza
 
 Munca medicilor este plina de provocari. Mai ales cand trebuie sa faca multe task-uri, uneori simultan, precum realizarea si citirea unei ecografii si inregistrarea observatiilor facute. De aceea este nevoie de un sistem inteligent care sa transforme informatia audio inregistrata de catre un medic in format text si sa completeze in mod automat rubricile dedicate din fisa pacientului.
-Se va pleca de la inregistrari audio precum [aceasta](Projects/voice2text/test1.ogg), se vor converti in format text si se va compelta automat partea evidentiata cu galben din fisa pacientului, precum [aceasta](Projects/voice2text/patient1.odt) (informatiile respective se vor salva intr-un tabel/jason si apoi se vor exporta intr-un document word)
+Se va pleca de la inregistrari audio precum [aceasta](projects/voice2text/test1.ogg), se vor converti in format text si se va compelta automat partea evidentiata cu galben din fisa pacientului, precum [aceasta](projects/voice2text/patient1.odt) (informatiile respective se vor salva intr-un tabel/jason si apoi se vor exporta intr-un document word)
 
 
 
 #### Data
 
-- inregistrari audio [link](Projects/voice2text/test1.ogg) [link](Projects/voice2text/test2.ogg) [link](Projects/voice2text/test3.ogg)
-- fisa pacientului [link](Projects/voice2text/patient1.odt)
+- inregistrari audio [link](projects/voice2text/test1.ogg) [link](projects/voice2text/test2.ogg) [link](projects/voice2text/test3.ogg)
+- fisa pacientului [link](projects/voice2text/patient1.odt)
  
 #### Bibliografie
 
@@ -297,7 +297,8 @@ Inteligența artificială promite automatizarea acestor evaluări. Studiul propu
     <summary> Causality identification (owner: dl. dr. Dan Blendea, dblendea1@gmail.com)  <img  style="vertical-align:middle" src="projects\causality.jpeg" alt="networks" width="100"/></summary>
 
 ### Scop
-Identificarea cauzelor insuficientei mitrale [link](2024-2025\Projects\variabilitate.pdf)
+Identificarea cauzelor insuficientei mitrale [link](../../2024-2025/Projects/variabilitate.pdf)
+
 
 ### Ideea de baza
 
@@ -312,7 +313,7 @@ Plecand de la o ecografie cardiaca (in format DICOM) se doreste identificarea ca
 
 
 ### Data
-- tiny dataset [link](2025-2026\Projects\pacienti.xlsx)
+- tiny dataset [link](../../2025-2026/Projects/pacienti.xlsx)
 
 
 ### Bibliografie
