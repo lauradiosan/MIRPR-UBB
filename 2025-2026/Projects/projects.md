@@ -572,3 +572,37 @@ Bhavsar, K., Singhal, S., Chandel, V., Samal, A., Khandelwal, S., Ahmed, N., & G
 Del-Valle-Soto, C., Briseño, R. A., Valdivia, L. J., & Nolazco-Flores, J. A. (2024). Unveiling wearables: exploring the global landscape of biometric applications and vital signs and behavioral impact. BioData Mining, 17(1), 15. [link](https://link.springer.com/content/pdf/10.1186/s13040-024-00368-y.pdf)
 
 </details>
+
+
+
+## Project 15
+<details>
+    <summary>  Segmentarea arterei etmoidale anterioare pe CBCT (Owner: dr. Filip Iacob iacob_filip@yahoo.com) <img  style="vertical-align:middle" src="images\Adenoids with endoscopy.webp)" width="100"/> </summary>
+
+### Scop
+
+Chirurgia endoscopică nazală necesită precizie​. Lezarea arterei etmoidale anterioare (AEA) este un risc frecvent​. Necesitatea localizării exacte preoperatorii a AEA​. Obiectivul proiectului este: segmentarea AEA pe CBCT. 
+
+
+### Ideea de baza
+
+Segmentarea AEA pe CBCT presuspune crearea unei baze de date de variații anatomice​, antrenarea unei inteligențe artificiale pentru detectare automată. Ipactul clinic al unui astfel de sistem automat: reducerea riscurilor operatorii privind
+lezarea AEA​, cresterea gradului de precizie pentru manoperele de endoscopie nazala​.
+
+
+<!-- ### TODOlist
+1. Iteratia1
+2. Iteratia2 -->
+### Data
+
+??
+
+### Bibliografie
+
+Huang, J., Habib, A. R., Mendis, D., Chong, J., Smith, M., Duvnjak, M., ... & Wong, E. (2020). An artificial intelligence algorithm that differentiates anterior ethmoidal artery location on sinus computed tomography scans. The Journal of Laryngology & Otology, 134(1), 52-55.
+
+Amarnath, S., & Suresh Kumar, P. (2019). Study of variants of anterior ethmoidal artery on computed tomography of paranasal sinuses. Int J Otorhinolaryngol Head Neck Surg, 5, 19-23.
+
+Itayem, D. A., Anzalone, C. L., White, J. R., Pallanch, J. F., & O’Brien, E. K. (2019). Increased accuracy, confidence, and efficiency in anterior ethmoidal artery identification with segmented image guidance. Otolaryngology–Head and Neck Surgery, 160(5), 818-821.
+
+</details>
