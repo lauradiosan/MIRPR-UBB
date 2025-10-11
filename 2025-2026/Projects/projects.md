@@ -90,7 +90,7 @@ Output asteptat: defectele software identificate in codul sursa (daca clasa cont
 ## Project 3
 
 <details>
-    <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB (Marius Florian Tudose, Banca Transilvania, marius2.tudose@btrl.ro)
+    <summary> Helpdesk bazat pe LLM personalizate pentru MateInfo-UBB ()
 <img src="projects/RAG.png" width="120"> </summary>
 
 ### Sistem automat pentru helpdesk bazat pe LLM
